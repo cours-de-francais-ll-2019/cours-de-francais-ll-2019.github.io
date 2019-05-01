@@ -209,14 +209,7 @@ il réussira 継ぐ[つぐ], il lira 読む[よむ], Léo a réussi à lire, l'�
 Lecture :
 
 na - ne - ni - no - nu - né - nè - nê
-une lune - Nina - le nid - la nuit - une année - elle a un âne
- 
-
-Dictée :
-
-na - ne - ni - no - nu - né - nè
-
-un  - une - la lune
+une lune 月[つき], Nina, un nid 巣[す], une nuit 夜間[やかん], une année 年間[ねんかん], elle a un âne
 
 ----
 
