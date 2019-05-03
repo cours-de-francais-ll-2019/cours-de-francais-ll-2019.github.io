@@ -6,7 +6,7 @@ slideNumber: true
 marp: true
 ---
 
-# Exercice de révision 確認[かくにん]しよう {data-background="#f44336"}
+# Exercice de révision <ruby>確認<rt>かくにん</rt></ruby>しよう {data-background="#f44336"}
 
 ----
 
@@ -45,11 +45,15 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](..\assets\m.png)
 
-**Exemples 実例[じつれい] :** 
+**Exemples <ruby>実例<rt>じつれい</rt></ruby> :** 
 
-ma mère お母さん[おかあさん], une momie ミイラ, un mur 壁[かべ], un lama ラマ, un animal 動物[どうぶつ], la mule*, un menu メニュー, la mie**
+ma mère <ruby>お母さん<rt>おかあさん</rt></ruby>, une momie ミイラ, un mur <ruby>壁<rt>かべ</rt></ruby>, un lama ラマ, un animal <ruby>動物<rt>どうぶつ</rt></ruby>, la mule*, un menu メニュー, la mie**
 
-elle a allumé la lumière 灯[ひ]を点[つ]ける, ma mère se nomme Marie
+----
+
+## Le son m (2)  {data-background="#f2f2f2"}
+
+elle a allumé la lumière <ruby>灯<rt>ひ</rt></ruby>を<ruby>点<rt>つ</rt></ruby>ける, ma mère se nomme Marie
 
 ----
 
@@ -74,7 +78,7 @@ elle a allumé la lumière 灯[ひ]を点[つ]ける, ma mère se nomme Marie
 ![](..\assets\p.png)
 
 **Exemples :** 
-un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[たんぽぽ], une plume 羽[はね], puissant 強力[きょうりょく]
+un père <ruby>お父さん<rt>おとうさん</rt></ruby>, une pluie <ruby>雨<rt>あめ</rt></ruby>, un pissenlit <ruby>蒲公英<rt>たんぽぽ</rt></ruby>, une plume <ruby>羽<rt>はね</rt></ruby>, puissant <ruby>強力<rt>きょうりょく</rt></ruby>
 
 ----
 
@@ -82,7 +86,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 
 ![](..\assets\t.png)
 
-**Exemples :**  une tuile タイル, une tulipe チューリップ, un têtard お玉杓子[おたまじゃくし], une tête 頭[あたま], un tire-bouchon 栓抜き[せんぬき]
+**Exemples :**  une tuile タイル, une tulipe チューリップ, un têtard <ruby>お玉杓子<rt>おたまじゃくし</rt></ruby>, une tête <ruby>頭<rt>あたま</rt></ruby>, un tire-bouchon <ruby>栓抜き<rt>せんぬき</rt></ruby>
 
 ----
 
@@ -90,7 +94,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 
 ![](..\assets\d.png)
 
-**Exemples :** un duc 公爵[こうしゃく], une dune 砂山[すなやま], un débutant 初心者[しょしんしゃ], déplacer 移し変える[うつしかえる], dix 十[じゅう]
+**Exemples :** un duc <ruby>公爵<rt>こうしゃく</rt></ruby>, une dune <ruby>砂山<rt>すなやま</rt></ruby>, un débutant <ruby>初心者<rt>しょしんしゃ</rt></ruby>, déplacer <ruby>移し変える<rt>うつしかえる</rt></ruby>, dix <ruby>十<rt>じゅう</rt></ruby>
 
 ----
 
@@ -98,7 +102,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 
 ![](..\assets\v.png)
 
-**Exemples :** un vélo 自転車[じてんしゃ], une voiture 車[くるま], voler 飛ぶ[とぶ], une ville 都市[とし], vif 鮮やか[あざやか]
+**Exemples :** un vélo <ruby>自転車<rt>じてんしゃ</rt></ruby>, une voiture <ruby>車<rt>くるま</rt></ruby>, voler <ruby>飛ぶ<rt>とぶ</rt></ruby>, une ville <ruby>都市<rt>とし</rt></ruby>, vif <ruby>鮮やか<rt>あざやか</rt></ruby>
 
 ----
 
@@ -106,7 +110,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 
 ![](..\assets\b.png)
 
-**Exemples :** beau 美しい[うつくしい], bleu 青い[あおい], brillant つるつる, un bain 風呂[ふろ], une brouette 手押し車[ておしぐるま], Biarritz* ビアリッツ
+**Exemples :** beau <ruby>美しい<rt>うつくしい</rt></ruby>, bleu <ruby>青い<rt>あおい</rt></ruby>, brillant つるつる, un bain <ruby>風呂<rt>ふろ</rt></ruby>, une brouette <ruby>手押し車<rt>ておしぐるま</rt></ruby>, Biarritz* ビアリッツ
 
 ----
 
@@ -118,7 +122,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 
 ![](..\assets\f.png)
 
-**Exemples :** une fleur 花[はな], un fil 糸[いと], fin 薄い[うすい], un feu 火[ひ], une ferme 農場[のうじょう]
+**Exemples :** une fleur <ruby>花<rt>はな</rt></ruby>, un fil <ruby>糸<rt>いと</rt></ruby>, fin <ruby>薄い<rt>うすい</rt></ruby>, un feu <ruby>火<rt>ひ</rt></ruby>, une ferme <ruby>農場<rt>のうじょう</rt></ruby>
 
 ----
 
@@ -126,7 +130,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 
 ![](..\assets\j.png)
 
-**Exemples :** un jeu ゲーム, un jour 日[ひ], joli 綺麗[きれい], une joie 喜び[よろこび], un journal 新聞[しんぶん]
+**Exemples :** un jeu ゲーム, un jour <ruby>日<rt>ひ</rt></ruby>, joli <ruby>綺麗<rt>きれい</rt></ruby>, une joie <ruby>喜び<rt>よろこび</rt></ruby>, un journal <ruby>新聞<rt>しんぶん</rt></ruby>
 
 ----
 
@@ -135,7 +139,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 | ar 	| ir 	|
 |:--------------------------------------------------------:	|:--------------------------------:	|
 | Une larme - une marmite - une tartine - le renard - mars 	| sortir - finir- un tapir* - obéir 	|
-| 涙[なみだ], 鍋[なべ], タルティーヌ, 狐[きつね], 三月[さんがつ]	| 出かける[でかける], 終わる[おわる], 獏[ばく], 従う[したがう]	|
+| <ruby>涙<rt>なみだ</rt></ruby>, <ruby>鍋<rt>なべ</rt></ruby>, タルティーヌ, <ruby>狐<rt>きつね</rt></ruby>, <ruby>三月<rt>さんがつ</rt></ruby>	| <ruby>出かける<rt>でかける</rt></ruby>, <ruby>終わる<rt>おわる</rt></ruby>, <ruby>獏<rt>ばく</rt></ruby>, <ruby>従う<rt>したがう</rt></ruby>	|
 
 ----
 
@@ -148,7 +152,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 | or 	| ur 	|
 |:------------------------------------------------------------------------------------------------:	|:-----------------------------:	|
 | il dort - une ortie - le bord - une tortue - fort - mort - le porc -alors - le morse - une porte 	| dormir - sur* - sûr - le mur - il hurle 	|
-| 眠る[ねむる],刺草[いらくさ],傍ら[かたわら],亀[かめ],強い[つよい],亡い[ない],豚[ぶた],そしたら,海象[せいうち],扉[とびら]	| 眠る[ねむる], 確か[たしか], 壁[かべ], 泣き叫ぶ[なきさけぶ]	|
+| <ruby>眠る<rt>ねむる</rt></ruby>, <ruby>刺草<rt>いらくさ</rt></ruby>, <ruby>傍ら<rt>かたわら</rt></ruby>, <ruby>亀<rt>かめ</rt></ruby>, <ruby>強い<rt>つよい</rt></ruby>, <ruby>亡い<rt>ない</rt></ruby>, <ruby>豚<rt>ぶた</rt></ruby>, そしたら, <ruby>海象<rt>せいうち</rt></ruby>, <ruby>扉<rt>とびら</rt></ruby>	| <ruby>眠る<rt>ねむる</rt></ruby>, <ruby>確か<rt>たしか</rt></ruby>, <ruby>壁<rt>かべ</rt></ruby>, <ruby>泣き叫ぶ<rt>なきさけぶ</rt></ruby>	|
 
 ----
 
@@ -157,7 +161,7 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 | as 	| is 	| os 	| us 	|
 |:-----------------:	|:-----------------------:	|:-----:	|:------:	|
 | un as - un ananas 	| une vis - le lis ou lys 	| un os 	| le bus 	|
-| エース, パイナップル    | 螺子[ねじ], 蝦夷禅庭花[えぞぜんていか]    | 骨[ほね] | バス |
+| エース, パイナップル    | <ruby>螺子<rt>ねじ</rt></ruby>, <ruby>蝦夷禅庭花<rt>えぞぜんていか</rt></ruby>    | <ruby>骨<rt>ほね</rt></ruby> | バス |
 
 ----
 
@@ -166,6 +170,27 @@ un père お父[とう]さん, une pluie 雨[あめ], un pissenlit 蒲公英[た
 | al | il | ol | ul |
 |:---------------:|:---------------------:|:-------------------------------------:|:-------------:|
 | mal - un animal | le fil - le film - il | un bol - un parasol - le sol - le vol | le pull - nul |
-| 悪い[わるい], 動物[どうぶつ] | 糸[いと], 映画[えいが], 彼[かれ] | 鉢[はち], 傘[かさ], 地[ち], 便[びん] | セーター, 駄作[ださく] |
+| <ruby>悪い<rt>わるい</rt></ruby>, <ruby>動物<rt>どうぶつ</rt></ruby> | <ruby>糸<rt>いと</rt></ruby>, <ruby>映画<rt>えいが</rt></ruby>, <ruby>彼<rt>かれ</rt></ruby> | <ruby>鉢<rt>はち</rt></ruby>, <ruby>傘<rt>かさ</rt></ruby>, <ruby>地<rt>ち</rt></ruby>, <ruby>便<rt>びん</rt></ruby> | セーター, <ruby>駄作<rt>ださく</rt></ruby> |
 
 ----
+
+# Les devoirs 宿題[しゅくだい]
+
+----
+
+各従業、**5語彙**の単語を選択してください。これらの言葉を学んでください。さらに**3語彙**の単語を探してください。その単語を分かち合います。
+
+- Choisir 5 mots de vocabulaire.
+- Apprendre ces mots.
+- Chercher 3 autres mots de vocabulaire
+- Mettre en commun la semaine prochaine
+
+----
+
+# 来てくれてありがとう
+
+----
+
+Merci d'être venu aujourd'hui !
+
+![](http://i.fltcdn.net/contents/3427/original_1492147559015_pc41j6u4nkw9971fw29.jpeg)
