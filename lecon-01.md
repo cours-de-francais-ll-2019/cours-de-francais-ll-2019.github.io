@@ -59,7 +59,7 @@ Let's practice together!
 
 ----
 
-## Les voyelles 母音[ぼいん]
+## Les voyelles <ruby>母音<rt>ぼいん</rt></ruby>
 
 There are 6 vowels in the French language :
 
@@ -72,7 +72,7 @@ There are 6 vowels in the French language :
 
 ----
 
-## Les consonnes 子音[しいん]
+## Les consonnes <ruby>子音<rt>しいん</rt></ruby>
 
 All the other letters of the alphabet are consonnants :
 
@@ -84,7 +84,9 @@ b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, (y), z
 
 Some letters are not exactly pronounced the same, this is represented by the use of accents.
 
-Fr
+à, â, ä, ç, é, è, ê, ë, î, ï, ô, ö, ù, û, ü, ÿ, æ, œ
+
+They are called diacritics : ダイアクリティック or <ruby>濁点<rt>だくてん</rt></ruby>
 
 ----
 
@@ -96,7 +98,7 @@ Fr
 
 ![](..\assets\a.png)
 
-**Exemples 実例[じつれい] :** un arbre 木[き], un oasis オアシス, un abri 避難所[ひなんじょ], une allumette 燐寸[マッチ], une altitude 高度[こうど]
+**Exemples <ruby>実例<rt>じつれい</rt></ruby> :** un arbre <ruby>木<rt>き</rt></ruby>, un oasis オアシス, un abri <ruby>避難所<rt>ひなんじょ</rt></ruby>, une allumette <ruby>燐寸<rt>マッチ</rt></ruby>, une altitude <ruby>高度<rt>こうど</rt></ruby>
 
 ----
 
@@ -104,7 +106,7 @@ Fr
 
 ![](..\assets\i.png)
 
-**Exemples :** un iris 虹彩[こうさい], une cerise 桜[さくら]んぼ, un souci 心配[しんぱい], une miniature 小型[こがた], une similitude 類似[るいじ]
+**Exemples :** un iris <ruby>虹彩<rt>こうさい</rt></ruby>, une cerise <ruby>桜<rt>さくら]ん</rt></ruby>, un souci <ruby>心配<rt>しんぱい</rt></ruby>, une miniature <ruby>小型<rt>こがた</rt></ruby>, une similitude <ruby>類似<rt>るいじ</rt></ruby>
 
 ----
 
@@ -112,7 +114,7 @@ Fr
 
 ![](..\assets\u.png)
 
-**Exemples :** un mur 壁[かべ], dur 硬い[かたい], une rue 道[みち], être perdu 無くなる[なくなる], la pluie 雨[あめ]
+**Exemples :** un mur <ruby>壁<rt>かべ</rt></ruby>, dur <ruby>硬い<rt>かたい</rt></ruby>, une rue <ruby>道<rt>みち</rt></ruby>, être perdu <ruby>無くなる<rt>なくなる</rt></ruby>, la pluie <ruby>雨<rt>あめ</rt></ruby>
 
 ----
 
@@ -120,7 +122,7 @@ Fr
 
 ![](..\assets\o.png)
 
-**Exemples :** gros 大きい[おおきい], un pot 壺[つぼ], un commissariat 警察署[けいさつしょ], une marmotte* グラウンドホッグ, un autocollant ステッカー
+**Exemples :** gros <ruby>大きい<rt>おおきい</rt></ruby>, un pot <ruby>壺<rt>つぼ</rt></ruby>, un commissariat <ruby>警察署<rt>けいさつしょ</rt></ruby>, une marmotte* グラウンドホッグ, un autocollant ステッカー
 
 ⁎ Voir la diapositive suivante
 
@@ -139,10 +141,10 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](..\assets\e.png)
 
-**Exemples :** me 自分[じぶん], une feuille 丁[ちょう], pleurer 泣く[なく], un appartement アパート, peureux ビクビク
+**Exemples :** me <ruby>自分<rt>じぶん</rt></ruby>, une feuille <ruby>丁<rt>ちょう</rt></ruby>, pleurer <ruby>泣く<rt>なく</rt></ruby>, un appartement アパート, peureux ビクビク
 
 **Contre-exemples :**
-une machine 機械[きかい], un magazine 雑誌[ざっし]
+une machine <ruby>機械<rt>きかい</rt></ruby>, un magazine <ruby>雑誌<rt>ざっし</rt></ruby>
 
 ----
 
@@ -150,7 +152,7 @@ une machine 機械[きかい], un magazine 雑誌[ざっし]
 
 ![](..\assets\ee.png)
 
-**Exemples :** la plongée 潜水[せんすい], le blé 小麦[こむぎ], mélanger 混ぜる[まぜる], une journée 昼間[ひるま], étonnant 意外[いがい]
+**Exemples :** la plongée <ruby>潜水<rt>せんすい</rt></ruby>, le blé <ruby>小麦<rt>こむぎ</rt></ruby>, mélanger <ruby>混ぜる<rt>まぜる</rt></ruby>, une journée <ruby>昼間<rt>ひるま</rt></ruby>, étonnant <ruby>意外<rt>いがい</rt></ruby>
 
 
 ----
@@ -159,7 +161,7 @@ une machine 機械[きかい], un magazine 雑誌[ざっし]
 
 ![](..\assets\eee.png)
 
-**Exemples :** une forêt 森[もり], un problème 問題[もんだい], une mère お母さん[おかあさん], une fête パーティ, une fenêtre 窓[まど], prêter 貸す[かす]
+**Exemples :** une forêt <ruby>森<rt>もり</rt></ruby>, un problème <ruby>問題<rt>もんだい</rt></ruby>, une mère <ruby>お母さん<rt>おかあさん</rt></ruby>, une fête パーティ, une fenêtre <ruby>窓<rt>まど</rt></ruby>, prêter <ruby>貸す<rt>かす</rt></ruby></rt></ruby>
 
 ----
 
@@ -171,9 +173,9 @@ une machine 機械[きかい], un magazine 雑誌[ざっし]
 
 ![](..\assets\r.png)
 
-**Exemples :** une narine 鼻孔[びこう], une sonnerie 着信音[ちゃくしんおん], rare 稀[まれ], un rat 鼠[ねずみ], rire 笑う[わらう], le sirop シロップ, une rue 道[みち], un rôle 役割[やくわり]
+**Exemples :** une narine <ruby>鼻孔<rt>びこう</rt></ruby>, une sonnerie <ruby>着信音<rt>ちゃくしんおん</rt></ruby>, rare <ruby>稀<rt>まれ</rt></ruby>, un rat <ruby>鼠<rt>ねずみ</rt></ruby>, rire <ruby>笑う<rt>わらう</rt></ruby>, le sirop シロップ, une rue <ruby>道<rt>みち</rt></ruby>, un rôle <ruby>役割<rt>やくわり</rt></ruby>
 
-il réussira 継ぐ[つぐ], il lira 読む[よむ], Léo a réussi à lire, l'âne 驢馬[ろば] rue 蹴る[ける]
+il réussira <ruby>継ぐ<rt>つぐ</rt></ruby>, il lira <ruby>読む<rt>よむ</rt></ruby>, Léo a réussi à lire, l'âne <ruby>驢馬<rt>ろば</rt></ruby>
 
 ----
 
@@ -197,7 +199,7 @@ il réussira 継ぐ[つぐ], il lira 読む[よむ], Léo a réussi à lire, l'�
 
 ![](..\assets\s.png)
 
-**Exemples :** il a sali __を汚す[__をよごす] le lit, salut ! ういっす, un lasso 投げ縄[なげなわ], une surprise 意表[いひょう], une science 科学[かがく]
+**Exemples :** il a sali <ruby>__を汚す<rt>__をよごす</rt></ruby>, salut ! ういっす, un lasso <ruby>投げ縄<rt>なげなわ</rt></ruby>, une surprise <ruby>意表<rt>いひょう</rt></ruby>, une science <ruby>科学<rt>かがく</rt></ruby>
 
 ----
 
@@ -209,7 +211,8 @@ il réussira 継ぐ[つぐ], il lira 読む[よむ], Léo a réussi à lire, l'�
 Lecture :
 
 na - ne - ni - no - nu - né - nè - nê
-une lune 月[つき], Nina, un nid 巣[す], une nuit 夜間[やかん], une année 年間[ねんかん], elle a un âne
+
+une lune <ruby>月<rt>つき</rt></ruby>, Nina, un nid <ruby>巣<rt>す</rt></ruby>, une nuit <ruby>夜間<rt>やかん</rt></ruby>, une année <ruby>年間<rt>ねんかん</rt></ruby>, elle a un âne
 
 ----
 
@@ -233,7 +236,3 @@ une lune 月[つき], Nina, un nid 巣[す], une nuit 夜間[やかん], une ann
 Merci d'être venu aujourd'hui !
 
 ![](http://i.fltcdn.net/contents/3427/original_1492147559015_pc41j6u4nkw9971fw29.jpeg)
-
-beau 美しい[うつくしい]
-un fardeau 負担[ふたん]
-l'eau 水[みず]
