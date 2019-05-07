@@ -1,0 +1,535 @@
+<!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Material Design Lite</title>
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="images/android-desktop.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="images/ios-desktop.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+    <link rel="shortcut icon" href="images/favicon.png">
+
+    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+    <!--
+    <link rel="canonical" href="http://www.example.com/">
+    -->
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-red.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="demo-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
+      <header class="demo-header mdl-layout__header mdl-layout__header--scroll mdl-color--grey-100 mdl-color-text--grey-800">
+        <div class="mdl-layout__header-row">
+          <span class="mdl-layout-title">Cours de français</span>
+          <div class="mdl-layout-spacer"></div>
+        </div>
+      </header>
+      <div class="demo-ribbon"></div>
+      <main class="demo-main mdl-layout__content">
+        <div class="demo-container mdl-grid">
+          <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
+          <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
+            <div class="demo-crumbs mdl-color-text--grey-500">
+              Kyutech Tobata &gt; Language Lounge &gt; Cours de français &gt; Vocabulaire leçon 2
+            </div>
+            <br><br>
+            <a href="https://cours-de-francais-ll-2019.github.io">
+            <button class="mdl-button mdl-js-button mdl-button--primary">
+                Back to the main page
+            </button>
+          </a>
+            <h3>Vocabulaire leçon 2</h3>
+
+            <table class="mdl-data-table mdl-js-data-table mdl-data-table--selectable" style="font-size: 1.5em;">
+                <thead>
+                <tr>
+                <th class="mdl-data-table__cell--non-numeric">Fran&#xE7;ais</th>
+                <th class="mdl-data-table__cell--non-numeric">Japonais</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">ma m&#xE8;re</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x304A;&#x6BCD;&#x3055;&#x3093;<rt>&#x304A;&#x304B;&#x3042;&#x3055;&#x3093;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une momie</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30DF;&#x30A4;&#x30E9;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un mur</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x58C1;<rt>&#x304B;&#x3079;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un lama</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30E9;&#x30DE;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un animal</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x52D5;&#x7269;<rt>&#x3069;&#x3046;&#x3076;&#x3064;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un menu</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30E1;&#x30CB;&#x30E5;&#x30FC;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">elle a allum&#xE9; la lumi&#xE8;re</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x706F;<rt>&#x3072;</rt></ruby>&#x3092;<ruby>&#x70B9;<rt>&#x3064;</rt></ruby>&#x3051;&#x308B;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un p&#xE8;re</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x304A;&#x7236;&#x3055;&#x3093;<rt>&#x304A;&#x3068;&#x3046;&#x3055;&#x3093;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une pluie</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x96E8;<rt>&#x3042;&#x3081;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un pissenlit</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x84B2;&#x516C;&#x82F1;<rt>&#x305F;&#x3093;&#x307D;&#x307D;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une plume</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7FBD;<rt>&#x306F;&#x306D;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">puissant</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x5F37;&#x529B;<rt>&#x304D;&#x3087;&#x3046;&#x308A;&#x3087;&#x304F;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une tuile</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30BF;&#x30A4;&#x30EB;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une tulipe</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30C1;&#x30E5;&#x30FC;&#x30EA;&#x30C3;&#x30D7;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un t&#xEA;tard</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x304A;&#x7389;&#x6753;&#x5B50;<rt>&#x304A;&#x305F;&#x307E;&#x3058;&#x3083;&#x304F;&#x3057;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une t&#xEA;te</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x982D;<rt>&#x3042;&#x305F;&#x307E;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un tire-bouchon</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x6813;&#x629C;&#x304D;<rt>&#x305B;&#x3093;&#x306C;&#x304D;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un duc</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x516C;&#x7235;<rt>&#x3053;&#x3046;&#x3057;&#x3083;&#x304F;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une dune</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7802;&#x5C71;<rt>&#x3059;&#x306A;&#x3084;&#x307E;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un d&#xE9;butant</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x521D;&#x5FC3;&#x8005;<rt>&#x3057;&#x3087;&#x3057;&#x3093;&#x3057;&#x3083;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">d&#xE9;placer</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x79FB;&#x3057;&#x5909;&#x3048;&#x308B;<rt>&#x3046;&#x3064;&#x3057;&#x304B;&#x3048;&#x308B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">dix</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x5341;<rt>&#x3058;&#x3085;&#x3046;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un v&#xE9;lo</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x81EA;&#x8EE2;&#x8ECA;<rt>&#x3058;&#x3066;&#x3093;&#x3057;&#x3083;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une voiture</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x8ECA;<rt>&#x304F;&#x308B;&#x307E;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">voler</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x98DB;&#x3076;<rt>&#x3068;&#x3076;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une ville</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x90FD;&#x5E02;<rt>&#x3068;&#x3057;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">vif</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x9BAE;&#x3084;&#x304B;<rt>&#x3042;&#x3056;&#x3084;&#x304B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">beau</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7F8E;&#x3057;&#x3044;<rt>&#x3046;&#x3064;&#x304F;&#x3057;&#x3044;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">bleu</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x9752;&#x3044;<rt>&#x3042;&#x304A;&#x3044;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">brillant</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x3064;&#x308B;&#x3064;&#x308B;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un bain</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x98A8;&#x5442;<rt>&#x3075;&#x308D;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une brouette</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x624B;&#x62BC;&#x3057;&#x8ECA;<rt>&#x3066;&#x304A;&#x3057;&#x3050;&#x308B;&#x307E;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">Biarritz</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30D3;&#x30A2;&#x30EA;&#x30C3;&#x30C4;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une fleur</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x82B1;<rt>&#x306F;&#x306A;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un fil</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7CF8;<rt>&#x3044;&#x3068;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">fin</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x8584;&#x3044;<rt>&#x3046;&#x3059;&#x3044;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un feu</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x706B;<rt>&#x3072;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une ferme</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x8FB2;&#x5834;<rt>&#x306E;&#x3046;&#x3058;&#x3087;&#x3046;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un jeu</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30B2;&#x30FC;&#x30E0;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un jour</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x65E5;<rt>&#x3072;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">joli</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7DBA;&#x9E97;<rt>&#x304D;&#x308C;&#x3044;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une joie</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x559C;&#x3073;<rt>&#x3088;&#x308D;&#x3053;&#x3073;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un journal</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x65B0;&#x805E;<rt>&#x3057;&#x3093;&#x3076;&#x3093;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une larme</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x6D99;<rt>&#x306A;&#x307F;&#x3060;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une marmite</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x934B;<rt>&#x306A;&#x3079;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une tartine</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30BF;&#x30EB;&#x30C6;&#x30A3;&#x30FC;&#x30CC;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le renard</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x72D0;<rt>&#x304D;&#x3064;&#x306D;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">mars</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x4E09;&#x6708;<rt>&#x3055;&#x3093;&#x304C;&#x3064;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">sortir</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x51FA;&#x304B;&#x3051;&#x308B;<rt>&#x3067;&#x304B;&#x3051;&#x308B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">finir</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7D42;&#x308F;&#x308B;<rt>&#x304A;&#x308F;&#x308B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un tapir</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x734F;<rt>&#x3070;&#x304F;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">ob&#xE9;ir</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x5F93;&#x3046;<rt>&#x3057;&#x305F;&#x304C;&#x3046;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">il dort</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7720;&#x308B;<rt>&#x306D;&#x3080;&#x308B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une ortie</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x523A;&#x8349;<rt>&#x3044;&#x3089;&#x304F;&#x3055;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le bord</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x508D;&#x3089;<rt>&#x304B;&#x305F;&#x308F;&#x3089;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une tortue</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x4E80;<rt>&#x304B;&#x3081;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">fort</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x5F37;&#x3044;<rt>&#x3064;&#x3088;&#x3044;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">mort</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x4EA1;&#x3044;<rt>&#x306A;&#x3044;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le porc</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x8C5A;<rt>&#x3076;&#x305F;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">alors</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x305D;&#x3057;&#x305F;&#x3089;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le morse</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x6D77;&#x8C61;<rt>&#x305B;&#x3044;&#x3046;&#x3061;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une porte</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x6249;<rt>&#x3068;&#x3073;&#x3089;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">dormir</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7720;&#x308B;<rt>&#x306D;&#x3080;&#x308B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">s&#xFB;r</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x78BA;&#x304B;<rt>&#x305F;&#x3057;&#x304B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le mur</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x58C1;<rt>&#x304B;&#x3079;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">il hurle</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x6CE3;&#x304D;&#x53EB;&#x3076;<rt>&#x306A;&#x304D;&#x3055;&#x3051;&#x3076;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un as</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30A8;&#x30FC;&#x30B9;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un ananas</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30D1;&#x30A4;&#x30CA;&#x30C3;&#x30D7;&#x30EB;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">une vis</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x87BA;&#x5B50;<rt>&#x306D;&#x3058;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le lis ou lys</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x8766;&#x5937;&#x7985;&#x5EAD;&#x82B1;<rt>&#x3048;&#x305E;&#x305C;&#x3093;&#x3066;&#x3044;&#x304B;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un os</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x9AA8;<rt>&#x307B;&#x306D;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le bus</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30D0;&#x30B9;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">mal</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x60AA;&#x3044;<rt>&#x308F;&#x308B;&#x3044;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un animal</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x52D5;&#x7269;<rt>&#x3069;&#x3046;&#x3076;&#x3064;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le fil</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x7CF8;<rt>&#x3044;&#x3068;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le film</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x6620;&#x753B;<rt>&#x3048;&#x3044;&#x304C;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">il</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x5F7C;<rt>&#x304B;&#x308C;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un bol</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x9262;<rt>&#x306F;&#x3061;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">un parasol</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x5098;<rt>&#x304B;&#x3055;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le sol</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x5730;<rt>&#x3061;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le vol</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x4FBF;<rt>&#x3073;&#x3093;</rt></ruby></td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">le pull</td>
+                <td class="mdl-data-table__cell--non-numeric">&#x30BB;&#x30FC;&#x30BF;&#x30FC;</td>
+                
+                </tr>
+                <tr>
+                <td class="mdl-data-table__cell--non-numeric">nul</td>
+                <td class="mdl-data-table__cell--non-numeric"><ruby>&#x99C4;&#x4F5C;<rt>&#x3060;&#x3055;&#x304F;</rt></ruby></td>
+                
+                </tr>
+                </tbody>
+            </table>
+
+            <br><br>
+            <a href="https://cours-de-francais-ll-2019.github.io">
+            <button class="mdl-button mdl-js-button mdl-button--primary">
+                Back to the main page
+            </button>
+          </a>
+          </div>
+        </div>
+        <footer class="demo-footer mdl-mini-footer">
+          <div class="mdl-mini-footer--left-section">
+            <ul class="mdl-mini-footer--link-list">
+              <li><a href="https://cours-de-francais-ll-2019.github.io/">Homepage</a></li>
+              <li><a href="http://www.ltc.kyutech.ac.jp/7293/">About the Language lounge</a></li>
+              <li><a href="http://www.kyutech.ac.jp/">Kyutech</a></li>
+            </ul>
+          </div>
+        </footer>
+      </main>
+    </div>
+    <a href="mailto:michal.sobieski-aleksander984@mail.kyutech.jp?subject=Cours+de+français+-+LL+2019" target="_blank" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"> <i class="material-icons">email</i>  Ask for help</a>
+    <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+  </body>
+</html>
