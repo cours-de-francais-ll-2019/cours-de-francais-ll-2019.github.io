@@ -195,27 +195,6 @@ il réussira <ruby>継ぐ<rt>つぐ</rt></ruby>, il lira <ruby>読む<rt>よむ<
 
 ----
 
-## Le son s  {data-background="#f2f2f2"}
-
-![](..\assets\s.png)
-
-**Exemples :** il a sali <ruby>__を汚す<rt>__をよごす</rt></ruby>, salut ! ういっす, un lasso <ruby>投げ縄<rt>なげなわ</rt></ruby>, une surprise <ruby>意表<rt>いひょう</rt></ruby>, une science <ruby>科学<rt>かがく</rt></ruby>
-
-----
-
-## Le son n  {data-background="#f2f2f2"}
-
-![](..\assets\n.png)
-
-**Exemples :** 
-Lecture :
-
-na - ne - ni - no - nu - né - nè - nê
-
-une lune <ruby>月<rt>つき</rt></ruby>, Nina, un nid <ruby>巣<rt>す</rt></ruby>, une nuit <ruby>夜間<rt>やかん</rt></ruby>, une année <ruby>年間<rt>ねんかん</rt></ruby>, elle a un âne
-
-----
-
 # Les devoirs 宿題[しゅくだい]
 
 ----

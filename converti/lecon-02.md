@@ -6,6 +6,31 @@ slideNumber: true
 marp: true
 ---
 
+# Fin de la leçon précédente
+
+----
+
+## Le son s  {data-background="#f2f2f2"}
+
+![](..\assets\s.png)
+
+**Exemples :** il a sali <ruby>__を汚す<rt>__をよごす</rt></ruby>, salut ! ういっす, un lasso <ruby>投げ縄<rt>なげなわ</rt></ruby>, une surprise <ruby>意表<rt>いひょう</rt></ruby>, une science <ruby>科学<rt>かがく</rt></ruby>
+
+----
+
+## Le son n  {data-background="#f2f2f2"}
+
+![](..\assets\n.png)
+
+**Exemples :** 
+Lecture :
+
+na - ne - ni - no - nu - né - nè - nê
+
+une lune <ruby>月<rt>つき</rt></ruby>, Nina, un nid <ruby>巣<rt>す</rt></ruby>, une nuit <ruby>夜間<rt>やかん</rt></ruby>, une année <ruby>年間<rt>ねんかん</rt></ruby>, elle a un âne
+
+----
+
 # Exercice de révision <ruby>確認<rt>かくにん</rt></ruby>しよう {data-background="#f44336"}
 
 ----
@@ -26,11 +51,15 @@ le li**t**, il a lu, rir**e**, réel, Léo a lu, la ru**e**, la lun**e**, il ré
 
 ---
 
-# Pourquoi c'est important ?
+# Les devoirs <ruby>宿題<rt>しゅくだい</rt></ruby> {data-background="#f44336"}
 
 ---
 
-## Démonstration en vidéo
+# Pourquoi c'est important ?
+
+----
+
+## Démonstration en vidéo t=1m19
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pk06lVu3qgQ?t=89"
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -59,11 +88,11 @@ elle a allumé la lumière <ruby>灯<rt>ひ</rt></ruby>を<ruby>点<rt>つ</rt><
 
 ![Un âne](https://img.bfmtv.com/c/1256/708/f8b/2319c2c4f72b49e2097d812d7dccd.jpg)
 
----
+----
 
 ![Un cheval](https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/Cheval.jpg/revision/latest?cb=20161103203841&path-prefix=fr)
 
----
+----
 
 ![Une mule](http://www.yoopa.ca/sites/yoopa.ca/files/styles/image-article-detail-720x405/public/images/2014-12/mule1_0.jpg)
 
@@ -174,7 +203,119 @@ un père <ruby>お父さん<rt>おとうさん</rt></ruby>, une pluie <ruby>雨<
 
 ----
 
-# Les devoirs 宿題[しゅくだい]
+# Les sons combinés
+
+----
+
+## Le son oi {data-background="#f2f2f2"}
+
+![](..\assets\oi.png)
+
+**Exemples :** une poire <ruby>梨<rt>なし</rt></ruby>, la Loire, un miroir <ruby>鏡<rt>かがみ</rt></ruby>, les devoirs <ruby>宿題<rt>しゅくだい</rt></ruby>
+
+----
+
+## Le son ou {data-background="#f2f2f2"}
+
+![](..\assets\ou.png)
+
+**Exemples :** mou <ruby>柔<rt>やわ</rt>らかい</ruby>, la boue <ruby>泥<rt>どろ</rt></ruby>, un four <ruby>オーブン</ruby>
+
+----
+
+## Le son on {data-background="#f2f2f2"}
+
+![](..\assets\on.png)
+
+**Exemples :** un camion <ruby>トラック</ruby>, un avion <ruby>飛行機<rt>ひこうき</rt></ruby>, le plomb <ruby>鉛<rt>なまり</rt></ruby>
+
+----
+
+## Le son ch {data-background="#f2f2f2"}
+
+![](..\assets\ch.png)
+
+**Exemples :** une chute <ruby>低下<rt>ていか</rt></ruby>, un chou <ruby>キャベツ</ruby>, une choucroute <ruby>ザワークラウト  /  シュークルート</ruby>
+
+----
+
+## Le son g {data-background="#f2f2f2"}
+
+![](..\assets\g.png)
+
+**Exemples :** une gamelle (fam.) <ruby>低下<rt>ていか</rt></ruby>, le Gabon <ruby>ガボン</ruby>, une guitare <ruby>ギター</ruby>
+
+"Fam." words tu use carefully
+
+----
+
+## Le son j (2) {data-background="#f2f2f2"}
+
+![](..\assets\j2.png)
+
+**Exemples :** une girafe <ruby>低下<rt>ていか</rt></ruby>, un géologue <ruby>地質学者<rt>ちしつがくしゃ</rt></ruby>, une vengeance <ruby>復讐<rt>ふくしゅう</rt></ruby>
+
+----
+
+## Le son an {data-background="#f2f2f2"}
+
+![](..\assets\an.png)
+
+We write the sound [ã] with a "m", when the following letter is a "m", a "b" or a "p".
+
+**Exemples :** la tempête <ruby>台風<rt>たいふう</rt></ruby>, emmener <ruby>持ち去る<rt>もちさる</rt></ruby>
+
+----
+
+## Le son eu {data-background="#f2f2f2"}
+
+![](..\assets\eu.png)
+
+----
+
+## Le son z {data-background="#f2f2f2"}
+
+![](..\assets\z.png)
+
+----
+
+## Le son au {data-background="#f2f2f2"}
+
+![](..\assets\au.png)
+
+----
+
+## Le son ill {data-background="#f2f2f2"}
+
+![](..\assets\ill.png)
+
+----
+
+## Le son ai {data-background="#f2f2f2"}
+
+![](..\assets\ai.png)
+
+----
+
+## Le son gn {data-background="#f2f2f2"}
+
+![](..\assets\gn.png)
+
+----
+
+## Le son ç {data-background="#f2f2f2"}
+
+![](..\assets\ç.png)
+
+----
+
+## Le son er {data-background="#f2f2f2"}
+
+![](..\assets\er.png)
+
+----
+
+# Les devoirs <ruby>宿題<rt>しゅくだい</rt></ruby>
 
 ----
 
