@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        fill: #f44336;
+      }
+
+      .cls-4 {
+        fill: #ffc107;
+      }
+
+      .cls-5 {
+        fill: #9c27b0;
+      }
+
+      .cls-6 {
+        fill: #3f51b5;
+      }
+
+      .cls-7 {
+        fill: #795548;
+      }
+
+      .cls-8 {
+        fill: #00bcd4;
+      }
+
+      .cls-9 {
+        fill: #4caf50;
+      }
+
+      .animPeVag {
+        animation: PeVag 30s linear infinite;
+        }
+
+      .animGrVag {
+        animation: GrVag 45s linear infinite;
+      }
+
+      .animD1{
+        animation: float1 6s linear infinite;
+      }
+
+      .animD2{
+        animation: float2 10s linear infinite;
+      }
+
+      .animD2{
+        animation: float3 4s linear infinite;
+      }
+
+      .animD2{
+        animation: float4 8s linear infinite;
+      }
+
+      @-webkit-keyframes PeVag {
+        from {
+          transform: translate(0px, 0px);
+        }
+        to {
+          transform: translate(-3412px, 0px);
+        }
+      }
+      @-webkit-keyframes GrVag {
+        from {
+          transform: translate(0px, 0px);
+        }
+        to {
+          transform: translate(4270px, 0px);
+          }
+      }
+
+      @keyframes float1 {
+	      from { -webkit-transform: rotate(-2deg) translateX(25px) rotate(7deg); opacity: 0; }
+        20%, 80% { opacity: 1; }
+        to   { -webkit-transform: rotate(350deg) translateX(15px) rotate(-370deg); opacity: 0; }
+      }
+      @keyframes float2 {
+	      from { -webkit-transform: rotate(3deg) translateX(25px) rotate(-2deg); opacity: 0; }
+        20%, 80% { opacity: 1; }
+        to   { -webkit-transform: rotate(370deg) translateX(10px) rotate(-384deg); opacity: 0; }
+      }
+      @keyframes float3 {
+	      from { -webkit-transform: rotate(9deg) translateX(20px) rotate(-0deg); opacity: 0; }
+        20%, 80% { opacity: 1; }
+        to   { -webkit-transform: rotate(380deg) translateX(10px) rotate(-370deg); opacity: 0; }
+      }
+      @keyframes float4 {
+	      from { -webkit-transform: rotate(3deg) translateX(10px) rotate(-2deg); opacity: 0; }
+        20%, 80% { opacity: 1; }
+        to   { -webkit-transform: rotate(373deg) translateX(5px) rotate(-383deg); opacity: 0; }
+      }
+
+    </style>
+    <linearGradient id="linear-gradient" x1="23661.73" y1="75.63" x2="25651.27" y2="1003.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ecf1fb"/>
+      <stop offset="0.7" stop-color="#eceef2"/>
+      <stop offset="0.99" stop-color="#ececec"/>
+    </linearGradient>
+  </defs>
+  <title>Background slides</title>
+  <rect id="Fond" class="cls-1" x="0" width="1919" height="1079"/>
+  <path id="PeVag" class="cls-2 animPeVag" d="M18774.25,987.24c-771.78,0-934.35-405.24-1706.75-405.24s-935.05,405.24-1706.75,405.24C14588.35,987.24,14425.7,582,13654,582c-778.36,2.59-937.17,405.22-1706.75,405.24-771.78,0-934.35-405.24-1706.75-405.24S9305.45,987.24,8533.75,987.24C7761.35,987.24,7598.7,582,6827,582c-778.36,2.59-937.17,405.22-1706.75,405.24C4348.47,987.27,4185.9,582,3413.5,582S2478.45,987.24,1706.75,987.24C934.35,987.24,771.7,582,0,582V1741H20481V582C19702.64,584.59,19543.83,987.22,18774.25,987.24Z"/>
+  <path id="GrVag" class="cls-2 animGrVag" d="M-214.75,846.12C-1180.07,846.15-1383.41,365-2349.5,365S-3519,846.12-4484.25,846.12C-5450.34,846.12-5653.79,365-6619,365c-973.55,3.08-1172.18,481.09-2134.75,481.12C-9719.07,846.15-9922.41,365-10888.5,365S-12058,846.12-13023.25,846.12C-13989.34,846.12-14192.79,365-15158,365c-973.55,3.08-1172.18,481.09-2134.75,481.12-965.32,0-1168.66-481.12-2134.75-481.12S-20597,846.12-21562.25,846.12C-22528.34,846.12-22731.79,365-23697,365V1741H1920V365C946.45,368.08,747.82,846.09-214.75,846.12Z"/>
+  <circle id="d11" class="cls-3 animD1" cx="240.5" cy="162.5" r="9.5"/>
+  <circle id="d10" class="cls-4 animD2" cx="259.5" cy="531.5" r="9.5"/>
+  <circle id="d9" class="cls-5 animD3" cx="1492.5" cy="930.5" r="9.5"/>
+  <circle id="d8" class="cls-3 animD4" cx="1797.5" cy="540.5" r="9.5"/>
+  <circle id="d7" class="cls-6 animD3" cx="385.5" cy="517.5" r="9.5"/>
+  <circle id="d6" class="cls-7 animD2" cx="1033.5" cy="768.5" r="9.5"/>
+  <circle id="d5" class="cls-7 animD1" cx="1533.5" cy="489.5" r="9.5"/>
+  <circle id="d4" class="cls-8 animD2" cx="1716.5" cy="171.5" r="9.5"/>
+  <circle id="d3" class="cls-9 animD3" cx="136.5" cy="795.5" r="9.5"/>
+  <circle id="d2" class="cls-9 animD4" cx="1255.5" cy="201.5" r="9.5"/>
+  <circle id="d1" class="cls-6 animD1" cx="636.5" cy="136.5" r="9.5"/>
+</svg>
