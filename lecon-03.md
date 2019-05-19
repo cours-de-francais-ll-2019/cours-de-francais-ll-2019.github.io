@@ -84,17 +84,20 @@ France was separated in a few countries and the two main languages were :
 ## The invariant words <ruby>変わらない<rt>かわらない</rt></ruby> <ruby>単語<rt>たんご</rt></ruby>
 
 > - prepositions <ruby>前置詞<rt>ぜんちし</rt></ruby>
-- adverbs <ruby>副詞<rt>ふくし</rt></ruby>
-- interjections <ruby>感嘆詞<rt>かんたんし</rt></ruby>
+> - adverbs <ruby>副詞<rt>ふくし</rt></ruby>
+> - interjections <ruby>感嘆詞<rt>かんたんし</rt></ruby>
 
 ----
 
 ## The variable words <ruby>可変な<rt>かへんな</rt></ruby> <ruby>単語<rt>たんご</rt></ruby>
+
 > - nouns <ruby>名詞<rt>めいし</rt></ruby>
 > - adjectives <ruby>形容詞<rt>けいようし</rt></ruby>
 > - articles <ruby>限定詞<rt>げんていし</rt></ruby>
 > - pronouns <ruby>代名詞<rt>だいめいし</rt></ruby>
 > - verbs <ruby>動詞<rt>どうし</rt></ruby>
+
+----
 
 # The words functions
 
@@ -102,7 +105,7 @@ France was separated in a few countries and the two main languages were :
 
 ## Le verbe <ruby>動詞<rt>どうし</rt></ruby>
 
-Indictates an *action* or a *state*
+Indicates an *action* <ruby>活動<rt>かつどう</rt></ruby> or a *state* <ruby>状態<rt>じょうたい</rt></ruby>
 
 Je **mange** une pomme. <ruby>私は林檎を食べます。<rt>わたしはりんごをたべます。</rt></ruby>
 
@@ -112,7 +115,7 @@ Je **suis** content. <ruby>私は嬉しいです。<rt>わたしはうれしい�
 
 ## Le nom <ruby>名詞<rt>めいし</rt></ruby>
 
-Indicates *who* does an action or *who* is subject to an action
+Indicates *who* <ruby>誰<rt>だれ</rt></ruby> does an action or *who* is subject to an action
 
 Je mange une **pomme**. <ruby>私は林檎を食べます。<rt>わたしはりんごをたべます。</rt></ruby>
 
@@ -124,7 +127,7 @@ Je suis content. <ruby>私は嬉しいです。<rt>わたしはうれしいで�
 
 Indicates the gender <ruby>性<rt>せい</rt></ruby> of the word. Also indicates the number of words <ruby>複数<rt>ふくすう</rt></ruby>.
 
-**Un** concert sera organisé dans **la** salle **des** fêtes. 
+**Un** concert sera organisé dans **la** salle **des** fêtes*. 
 
 <ruby>
 演奏会を県民会館で設ける。<rt>えんそうかいをけんみんかいかんでもうける。</rt></ruby>
@@ -133,9 +136,13 @@ Je mange **une** pomme. <ruby>私は林檎を食べます。<rt>わたしはり�
 
 ----
 
+![Une salle des fêtes](http://www.mairie-flesselles.fr/wp-content/gallery/salle-des-fetes/imgp0183.jpg)
+
+----
+
 ## L'adjectif <ruby>形容詞<rt>けいようし</rt></ruby>
 
-It indicates a **quality** or gives more information about **a noun**
+It indicates a **characteristic** <ruby>特色<rt>とくしょく</rt></ruby> or gives more information about **a noun**
 
 **Mon** frère a lu **ce** livre **deux** fois. <ruby>私の兄はこの本を二度読みました。<rt>わたしのあにはこのほんをにどよもました。</rt></ruby>
 
