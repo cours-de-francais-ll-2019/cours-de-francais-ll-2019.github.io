@@ -13,9 +13,14 @@ echo.
 pandoc -t revealjs -s --css="theme.css" -o lecons/lecon-%id%.html lecon-%id%.md --slide-level=2 -V revealjs-url=https://revealjs.com
 echo Conversion de la leçon %id% terminée
 echo.
+:question
 set /P ok="Le résultat est-il satisfaisant ? [O/n]"
 echo.
 if %ok%==n (goto conversion)
 if %ok%==N (goto conversion)
+if %ok%==o (goto deplacement)
+if %ok%==O (goto deplacement)
+goto question
+:deplacement
 move "lecon-"%id%".md" "converti/lecon-"%id%".md"
 echo Transfert du fichier lecon-%id%.md terminé
