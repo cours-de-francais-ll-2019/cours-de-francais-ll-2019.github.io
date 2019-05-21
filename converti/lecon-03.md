@@ -89,7 +89,7 @@ France was separated in a few countries and the two main languages were :
 
 ----
 
-## The variable words <ruby>可変な<rt>かへんな</rt></ruby> <ruby>単語<rt>たんご</rt></ruby>
+## The variable words <ruby>変化<rt>へんか</rt>する</ruby> <ruby>単語<rt>たんご</rt></ruby>
 
 > - nouns <ruby>名詞<rt>めいし</rt></ruby>
 > - adjectives <ruby>形容詞<rt>けいようし</rt></ruby>
@@ -233,3 +233,13 @@ The Chaîne des Puys is the youngest volcanic complex in metropolitan France wit
 ----
 
 ![La chaine des puys](http://odysseedelaterre.fr/wp-content/uploads/2018/07/puy-de-dome-odyssee-terre.jpg)
+
+----
+
+# 来てくれてありがとう
+
+----
+
+Merci d'être venu aujourd'hui !
+
+![](http://i.fltcdn.net/contents/3427/original_1492147559015_pc41j6u4nkw9971fw29.jpeg)
