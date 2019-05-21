@@ -54,11 +54,11 @@
         animation: float2 10s linear infinite;
       }
 
-      .animD2{
+      .animD3{
         animation: float3 4s linear infinite;
       }
 
-      .animD2{
+      .animD4{
         animation: float4 8s linear infinite;
       }
 
