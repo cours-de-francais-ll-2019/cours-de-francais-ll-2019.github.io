@@ -170,7 +170,7 @@ Visiter la Gironde : Les vignes de Saint-Emilion, les huitres du Cap Ferret ou d
 Pyrénées-Atlantiques : La découverte du Pays Basque, le jambon et les fêtes de Bayonne, le surf à Biarritz, la plage de Guétary, les montagnes des Pyrénées.
 Visiter les Landes : Le surf à Biscarosse et à Hossegor, la dune du Pilat, le magret de canard et le foie gras, l’armagnac, le flamenco à Mont de Marsan.
 Dordogne : La grotte de Lascaux et les nombreux sites préhistoriques, des magnifiques villages coincés dans les rochers, Sarlat, le canoë, la cuisine du Sud-Ouest (truffe, vin de noix, la fraise du Périgord).
-Lot-et-Garonne : Les beaux villages de France (Monflanquin et Pujols) et ses superbes châteaux (Duras), les pruneaux d’Agen, et la Vallée de la Lède.
+Lot-et-Garonne : Les beaux villages de France (Monflanquin et Pujols) et ses superbes châteaux (Duras), **les pruneaux d’Agen**, et la Vallée de la Lède.
 Tourisme Auvergne
 
 Puy-de-Dôme : **La chaine de volcans du Puy**, les nombreux parcs naturels pour la randonnée, les lacs volcaniques, les fromages d’Auvergne, l’histoire et les sites religieux, l’art Roman.
