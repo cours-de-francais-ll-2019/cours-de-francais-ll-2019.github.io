@@ -69,11 +69,11 @@ It depends on the gender of the persons doing this type of work.
 
 ## Les suffixes <ruby>接尾辞<rt>せつびじ</rt></ruby> féminins
 
--ade, -aie, -aille, -aine, -aison, -ance, -ande, -ée, -ie, -ille, -ise, -ison, -itude, -oire, -té, -tion, -trice, -ure
+-ade, -aie, -aille, -aine, -aison, -ance, -ande, -ée, -ie
 
-**Exemples :** une salade, **un malade**, une haie, une paille, une plaine, une maison, une chance, une amande, une fée, une scie*, une famille, une surprise, une prison, une habitude, une poire, une volonté, une répétition, une institutrice, une coupure
+**Exemples :** une salade, **un malade**, une haie, une paille, une plaine, une maison, une chance, une amande, une fée, une scie*
 
-<ruby>サラダ, 患者<rt>かんじゃ</rt>, 垣根<rt>かきね</rt>, ストロー, 平野<rt>へいや</rt>, 家<rt>いえ</rt>, 勝ち目<rt>かちめ</rt>, アーモンド, 妖精<rt>ようせい</rt>, 鋸<rt>のこぎり</rt>, 家族<rt>かぞく</rt>, 驚き<rt>おどろき</rt>, 刑務所<rt>けいむしょ</rt>, 習慣<rt>しゅうかん</rt>, 梨<rt>なし</rt>, 意志<rt>いし</rt>, 繰り返し<rt>くりかえし</rt>, 小学校<rt>しょうがっこう</rt>先生<rt>せんせい</rt>, 傷<rt>きず</rt></ruby>
+<ruby>サラダ, 患者<rt>かんじゃ</rt>, 垣根<rt>かきね</rt>, ストロー, 平野<rt>へいや</rt>, 家<rt>いえ</rt>, 勝ち目<rt>かちめ</rt>, アーモンド, 妖精<rt>ようせい</rt>, 鋸<rt>のこぎり</rt></ruby>
 
 ----
 
@@ -85,17 +85,31 @@ It depends on the gender of the persons doing this type of work.
 
 ----
 
+## Les suffixes <ruby>接尾辞<rt>せつびじ</rt></ruby> féminins
+
+-ille, -ise, -ison, -itude, -oire, -té, -tion, -trice, -ure
+
+**Exemples :** une famille, une surprise, une prison, une habitude, une poire, une volonté, une répétition, une institutrice, une coupure
+
+<ruby>家族<rt>かぞく</rt>, 驚き<rt>おどろき</rt>, 刑務所<rt>けいむしょ</rt>, 習慣<rt>しゅうかん</rt>, 梨<rt>なし</rt>, 意志<rt>いし</rt>, 繰り返し<rt>くりかえし</rt>, 小学校<rt>しょうがっこう</rt>先生<rt>せんせい</rt>, 傷<rt>きず</rt></ruby>
+
+----
+
 # Se présenter
 
 ----
 
-Bonjour. 
-— Bonjour. Moi, je m'appelle Pierre et toi?
-— Moi, je suis Christophe. Ça va?
-— Oui, merci, ça va bien. Et toi?
-— Moi, aussi, merci.
-— À bientôt.
-— À bientôt.
+![](https://fr.tintin.com/images/tintin/persos/tournesol/C11%2005%20C2.jpg)
+
+----
+
+Bonjour.  
+— Bonjour. Moi, je m'appelle Pierre et toi?  
+— Moi, je suis Christophe. Ça va?  
+— Oui, merci, ça va bien. Et toi?  
+— Moi, aussi, merci.  
+— À bientôt.  
+— À bientôt.  
 
 > - Imaginez votre identité et jouez le dialogue.
 
@@ -126,7 +140,7 @@ d. Je parle *France/français*.
 
 ***parle - appelle — habite - suis***
 
-> Bonjour, je m'_______ Marie-Claire. Je suis française et je _______ anglais et espagnol aussi...
+> Bonjour, je m'_______ Marie-Claire. Je suis française et je _______ anglais et espagnol aussi...  
 > J' _______ à Bordeaux. Je _______ professeur de français. Et toi?
 
 ----
@@ -145,15 +159,11 @@ Nationalité : Français
 
 ----
 
-![](https://fr.tintin.com/images/tintin/persos/tournesol/C11%2005%20C2.jpg)
-
-----
-
 # La pause culture
 
 ----
 
-## Les pruneaux d'Agen 干し李 ほしすもも
+## Les pruneaux d'Agen <ruby>干し李<rt>ほしすもも</rt></ruby>
 
 ![Le Lot-et-Garonne](https://www.carte-grise-en-ligne-ccsl.fr/wp-content/uploads/2019/03/Carte-grise-47-Lot-et-Garonne.jpg)
 
