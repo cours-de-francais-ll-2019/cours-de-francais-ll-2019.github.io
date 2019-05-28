@@ -6,143 +6,142 @@ table {width: 50%}
 
 Link to the presentations : [cours-de-francais-ll-2019.github.io](cours-de-francais-ll-2019.github.io)
 
-## Leçon 3
+## Leçon 4
 
 <table class="mdl-data-table mdl-js-data-table mdl-data-table--selectable">
-                <tr>
-                    <th class="mdl-data-table__cell--non-numeric">Français</th>
-                    <th class="mdl-data-table__cell--non-numeric">Japonais</th>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">la phonétique</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>音声学<rt>おんせいがく</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">la morphologie</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>形態論<rt>けいたいろん</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">la syntaxe</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>構文<rt>こうぶん</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">le vocabulaire</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>語彙<rt>ごい</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">le style</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>文章<rt>ぶんしょう</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">ausculter</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>分解検査<rt>ぶんかいけんさ</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">écouter</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>聞く<rt>きく</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">les dialectes</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>方言[ほうげん</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un mot invariable</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>変わらない<rt>かわらない</rt></ruby> <ruby>単語<rt>たんご</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">une préposition</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>前置詞<rt>ぜんちし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un adverbe</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>副詞<rt>ふくし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">une interjection</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>感嘆詞<rt>かんたんし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">les mots variables</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>可変な<rt>かへんな</rt></ruby> <ruby>単語<rt>たんご</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un nom</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>名詞<rt>めいし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un adjectif</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>形容詞<rt>けいようし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un article</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>限定詞<rt>げんていし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un pronom</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>代名詞<rt>だいめいし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un verbe</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>動詞<rt>どうし</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">une action</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>活動<rt>かつどう</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un état</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>状態<rt>じょうたい</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">manger</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>食る<rt>たべる</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">qui</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>誰<rt>だれ</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">le genre (masculin/féminin)</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>性<rt>せい</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">le nombre (singulier/pluriel)</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>複数<rt>ふくすう</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">la salle des fêtes</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>県民会館<rt>けんみんかいかん</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">une qualité</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>特色<rt>とくしょく</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">prêter</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>貸す。<rt>かす</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">perdre</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>負ける<rt>まける</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">une soupe</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>スープ</ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">chanter</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>歌う<rt>うたう</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">beau</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>綺麗<rt>きれい</rt></ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">un cadeau</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>プレゼント</ruby></td>
-                  </tr>
-                  <tr>
-                    <td class="mdl-data-table__cell--non-numeric">offrir</td>
-                    <td class="mdl-data-table__cell--non-numeric"><ruby>贈る<rt>おくる</rt></ruby></td>
-                  </tr>
-            </table>
+  <tr>
+    <th class="mdl-data-table__cell--non-numeric">Français</th>
+    <th class="mdl-data-table__cell--non-numeric">Japonais</th>
+  </tr>
+    <td class="mdl-data-table__cell--non-numeric">Les noms propres</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>固有名詞<rt>こゆうめいし</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">Les noms communs</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>普通名詞<rt>ふつうめいし</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un orage</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>嵐<rt>あらし</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un portail</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>門<rt>もん</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un firmament</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>大空<rt>おおぞら</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un aboiement</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>吠える<rt>ほえる</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un prunier</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>寒梅<rt>かんばい</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un oisillon</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>雛<rt>ひよこ</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un plein</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>満タン<rt>まんタン</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un pis</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>牛<rt>うし</rt>の<rt></rt>乳房<rt>ちぶさ</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une vis</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>螺子<rt>ねじ</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un sophisme</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>詭弁<rt>きべん</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un trottoir</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>歩道<rt>ほどう</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un tracteur</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>トラクター</ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une salade</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>サラダ</ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">un malade</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>患者<rt>かんじゃ</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une haie</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>垣根<rt>かきね</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une paille</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>ストロー</ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une plaine</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>平野<rt>へいや</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une maison</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>家<rt>いえ</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une chance</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>勝ち目<rt>かちめ</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une amande</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>アーモンド</ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une fée</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>妖精<rt>ようせい</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une scie</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>鋸<rt>のこぎり</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une famille</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>家族<rt>かぞく</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une surprise</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>驚き<rt>おどろき</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une prison</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>刑務所<rt>けいむしょ</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une habitude</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>習慣<rt>しゅうかん</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une poire</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>梨<rt>なし</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une volonté</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>意志<rt>いし</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une répétition</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>繰り返し<rt>くりかえし</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une institutrice</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>小学校<rt>しょうがっこう</rt>先生<rt>せんせい</rt></ruby></td>
+  </tr>
+  <tr>
+    <td class="mdl-data-table__cell--non-numeric">une coupure</td>
+    <td class="mdl-data-table__cell--non-numeric"><ruby>傷<rt>きず</rt></ruby></td>
+  </tr>
+</table>
