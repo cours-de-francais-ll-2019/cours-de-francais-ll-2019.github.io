@@ -10,16 +10,18 @@ marp: true
 
 ----
 
+Get ready !
+
 ----
+
 ## Correction <ruby>校閲<rt>こうえつ</rt></ruby>
 
-Une cerise, un mur, une rue, la pluie, le blé,
+- Une cerise, un mur, une rue, la pluie, le blé,
+- Rare, une surprise, la lune, un pissenlit, un parasol,
+- Un tire-bouchon, un vélo, joli, le renard, un adjectif,
+- Une qualité, un cadeau, chanter, qui, un autocollant
 
-rare, une surprise, la lune, un pissenlit, un parasol,
-
-un tire-bouchon, un vélo, joli, le renard, un adjectif,
-
-une qualité, un cadeau, chanter, qui, un autocollant
+----
 
 # Le point de grammaire 文法
 
@@ -210,4 +212,4 @@ Nationalité : Français
 
 Merci d'être venu aujourd'hui !
 
-![](../assets/original_1492147559015_pc41j6u4nkw9971fw29.jpeg)
+![](../assets/chien.jpg)
