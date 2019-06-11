@@ -6,7 +6,22 @@ slideNumber: true
 marp: true
 ---
 
-# Le point de grammaire 文法ポ
+# Dictée ! <ruby>書き取る<rt>かきとる</rt></ruby>
+
+----
+
+----
+## Correction <ruby>校閲<rt>こうえつ</rt></ruby>
+
+Une cerise, un mur, une rue, la pluie, le blé,
+
+rare, une surprise, la lune, un pissenlit, un parasol,
+
+un tire-bouchon, un vélo, joli, le renard, un adjectif,
+
+une qualité, un cadeau, chanter, qui, un autocollant
+
+# Le point de grammaire 文法
 
 ----
 
@@ -30,11 +45,11 @@ Paris, Londres, Jean, une pomme, un fil, Titi le chat, M.Katsu, le professeur To
 
 ----
 
-![Le professeur Tournesol](http://www.tintin.com/tintin/persos/tournesol/tournesol.jpg)
+![Le professeur Tournesol](../assets/tournesol.jpg)
 
 ----
 
-![](http://www.tintin.com/tintin/persos/tintin/tintin.jpg)
+![](../assets/tintin.jpg)
 
 ----
 
@@ -81,7 +96,7 @@ It depends on the gender of the persons doing this type of work.
 
 ----
 
-![Un ciseaux à bois](http://www.kakuri.co.jp/wp/wp-content/uploads/2016/05/41300-1024x1024.jpg)
+![Un ciseaux à bois](../assets/41300-1024x1024.jpg)
 
 ----
 
@@ -152,9 +167,13 @@ d. Je parle *France/français*.
 ----
 
 Prénom : Emmanuel
+
 Nom : Macron
+
 Travail : Président de la république
+
 Lieu de résidence : France, Paris
+
 Nationalité : Français
 
 ----
@@ -169,11 +188,11 @@ Nationalité : Français
 
 ----
 
-![](http://www.pruneau.fr/images/1050/PruneauxIGP.jpg)
+![](../assets/PruneauxIGP.jpg)
 
 ----
 
-![](http://www.pruneau.fr/images/1050/PruneauxBIO.png)
+![](../assets/PruneauxBIO.png)
 
 ----
 
@@ -191,4 +210,4 @@ Nationalité : Français
 
 Merci d'être venu aujourd'hui !
 
-![](http://i.fltcdn.net/contents/3427/original_1492147559015_pc41j6u4nkw9971fw29.jpeg)
+![](../assets/original_1492147559015_pc41j6u4nkw9971fw29.jpeg)
