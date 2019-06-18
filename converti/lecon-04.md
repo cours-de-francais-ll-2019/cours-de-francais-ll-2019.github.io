@@ -6,23 +6,6 @@ slideNumber: true
 marp: true
 ---
 
-# Dictée ! <ruby>書き取る<rt>かきとる</rt></ruby>
-
-----
-
-Get ready !
-
-----
-
-## Correction <ruby>校閲<rt>こうえつ</rt></ruby>
-
-- Une cerise, un mur, une rue, la pluie, le blé,
-- Rare, une surprise, la lune, un pissenlit, un parasol,
-- Un tire-bouchon, un vélo, joli, le renard, un adjectif,
-- Une qualité, un cadeau, chanter, qui, un autocollant
-
-----
-
 # Le point de grammaire 文法
 
 ----
@@ -160,51 +143,6 @@ d. Je parle *France/français*.
 > Bonjour, je m'_______ Marie-Claire. Je suis française et je _______ anglais et espagnol aussi...  
 > J' _______ à Bordeaux. Je _______ professeur de français. Et toi?
 
-----
-
-## 5. Qui est-ce ?
-
-![](https://media.ouest-france.fr/v1/pictures/2b437fbf35c5acc1809f64677fd85807-des-militants-du-climat-decrochent-un-nouveau-portrait-d-emmanuel-macron-paris.jpg?width=1260&height=712&focuspoint=48%2C45&cropresize=1&client_id=cmsfront&sign=a4ad0cdd21dcd447c7fada6f336ac6627336fcf4ddde1e819baea766ceb084e4)
-
-----
-
-Prénom : Emmanuel
-
-Nom : Macron
-
-Travail : Président de la république
-
-Lieu de résidence : France, Paris
-
-Nationalité : Français
-
-----
-
-# La pause culture
-
-----
-
-## Les pruneaux d'Agen <ruby>干し李<rt>ほしすもも</rt></ruby>
-
-![Le Lot-et-Garonne](https://www.carte-grise-en-ligne-ccsl.fr/wp-content/uploads/2019/03/Carte-grise-47-Lot-et-Garonne.jpg)
-
-----
-
-![](../assets/PruneauxIGP.jpg)
-
-----
-
-![](../assets/PruneauxBIO.png)
-
-----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GsaCX9PY92k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7b9aYhq48fU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-----
 
 # 来てくれてありがとう
 
