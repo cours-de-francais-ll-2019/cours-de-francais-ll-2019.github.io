@@ -39,7 +39,7 @@ Nationalité : Français
 
 ## Les 3 types de questions
 
-###A classic sentence :
+### A classic sentence :
 
 <span style="border:2px solid #3f51b5;padding:1%;">Sujet</span> <span style="border:2px solid #f44336;padding:1%;">Verbe</span> <span style="border:2px solid #4caf50;padding:1%;">Complément</span> <span style="border:2px solid #9c27b0;padding:1%;">Ponctuation</span>
 
@@ -53,11 +53,15 @@ Nationalité : Français
 
 <span style="border:2px solid #3f51b5;padding:1%; padding-top:3%;"><ruby>主語<rt>しゅご</rt></ruby></span> <span style="border:2px solid #f44336;padding:1%; padding-top:3%;"><ruby>動詞<rt>どうし</rt></ruby></span> <span style="border:2px solid #4caf50;padding:1%; padding-top:3%;"><ruby>補部<rt>ほぶ</rt></ruby></span> <span style="border:2px solid #9c27b0;padding:1%; padding-top:3%;"><ruby>約物<rt>やくもの</rt></ruby></span>
 
+<br>
+
 <span style="border:2px solid #f44336;padding:1%;">Bois</span> <span style="border:2px solid #ffc107;padding:1%;">-</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
 
 ## Question usuelle <ruby>只<rt>ただ</rt></ruby> :
 
 <span style="border:2px solid #3f51b5;padding:1%; padding-top:3%;"><ruby>主語<rt>しゅご</rt></ruby></span> <span style="border:2px solid #f44336;padding:1%; padding-top:3%;"><ruby>動詞<rt>どうし</rt></ruby></span> <span style="border:2px solid #4caf50;padding:1%; padding-top:3%;"><ruby>補部<rt>ほぶ</rt></ruby></span> <span style="border:2px solid #9c27b0;padding:1%; padding-top:3%;"><ruby>約物<rt>やくもの</rt></ruby></span>
+
+<br>
 
 <span style="border:2px solid #ffc107;padding:1%;">Est-ce que</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
 
@@ -65,15 +69,23 @@ Nationalité : Français
 
 <span style="border:2px solid #3f51b5;padding:1%; padding-top:3%;"><ruby>主語<rt>しゅご</rt></ruby></span> <span style="border:2px solid #f44336;padding:1%; padding-top:3%;"><ruby>動詞<rt>どうし</rt></ruby></span> <span style="border:2px solid #4caf50;padding:1%; padding-top:3%;"><ruby>補部<rt>ほぶ</rt></ruby></span> <span style="border:2px solid #9c27b0;padding:1%; padding-top:3%;"><ruby>約物<rt>やくもの</rt></ruby></span>
 
+<br>
+
 <span style="border:2px solid #3f51b5;padding:1%;">Je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
 
 ## All together
 
 <span style="border:2px solid #3f51b5;padding:1%;">Je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">.</span>
 
+<br>
+
 <span style="border:2px solid #f44336;padding:1%;">Bois</span> <span style="border:2px solid #ffc107;padding:1%;">-</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
 
+<br>
+
 <span style="border:2px solid #ffc107;padding:1%;">Est-ce que</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
+
+<br>
 
 <span style="border:2px solid #3f51b5;padding:1%;">Je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
 
