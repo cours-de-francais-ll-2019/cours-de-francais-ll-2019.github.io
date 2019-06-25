@@ -37,6 +37,45 @@ Nationalité : Français
 
 # Poser des questions　<ruby>質問を聞く<rt>しつもんをきく</rt></ruby>
 
+## Les 3 types de questions
+
+###A classic sentence :
+
+<span style="border:2px solid #3f51b5;padding:1%;">Sujet</span> <span style="border:2px solid #f44336;padding:1%;">Verbe</span> <span style="border:2px solid #4caf50;padding:1%;">Complément</span> <span style="border:2px solid #9c27b0;padding:1%;">Ponctuation</span>
+
+<span style="border:2px solid #3f51b5;padding:1%; padding-top:3%;"><ruby>主語<rt>しゅご</rt></ruby></span> <span style="border:2px solid #f44336;padding:1%; padding-top:3%;"><ruby>動詞<rt>どうし</rt></ruby></span> <span style="border:2px solid #4caf50;padding:1%; padding-top:3%;"><ruby>補部<rt>ほぶ</rt></ruby></span> <span style="border:2px solid #9c27b0;padding:1%; padding-top:3%;"><ruby>約物<rt>やくもの</rt></ruby></span>
+
+> Je bois de l'eau
+
+> - <span style="border:2px solid #3f51b5;padding:1%;">Je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">.</span>
+
+## Question polie <ruby>畏<rt>かしこ</rt>まった</ruby> :
+
+<span style="border:2px solid #3f51b5;padding:1%; padding-top:3%;"><ruby>主語<rt>しゅご</rt></ruby></span> <span style="border:2px solid #f44336;padding:1%; padding-top:3%;"><ruby>動詞<rt>どうし</rt></ruby></span> <span style="border:2px solid #4caf50;padding:1%; padding-top:3%;"><ruby>補部<rt>ほぶ</rt></ruby></span> <span style="border:2px solid #9c27b0;padding:1%; padding-top:3%;"><ruby>約物<rt>やくもの</rt></ruby></span>
+
+<span style="border:2px solid #f44336;padding:1%;">Bois</span> <span style="border:2px solid #ffc107;padding:1%;">-</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
+
+## Question usuelle <ruby>只<rt>ただ</rt></ruby> :
+
+<span style="border:2px solid #3f51b5;padding:1%; padding-top:3%;"><ruby>主語<rt>しゅご</rt></ruby></span> <span style="border:2px solid #f44336;padding:1%; padding-top:3%;"><ruby>動詞<rt>どうし</rt></ruby></span> <span style="border:2px solid #4caf50;padding:1%; padding-top:3%;"><ruby>補部<rt>ほぶ</rt></ruby></span> <span style="border:2px solid #9c27b0;padding:1%; padding-top:3%;"><ruby>約物<rt>やくもの</rt></ruby></span>
+
+<span style="border:2px solid #ffc107;padding:1%;">Est-ce que</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
+
+## Question familière <ruby>略式<rt>りゃくしき</rt></ruby> :
+
+<span style="border:2px solid #3f51b5;padding:1%; padding-top:3%;"><ruby>主語<rt>しゅご</rt></ruby></span> <span style="border:2px solid #f44336;padding:1%; padding-top:3%;"><ruby>動詞<rt>どうし</rt></ruby></span> <span style="border:2px solid #4caf50;padding:1%; padding-top:3%;"><ruby>補部<rt>ほぶ</rt></ruby></span> <span style="border:2px solid #9c27b0;padding:1%; padding-top:3%;"><ruby>約物<rt>やくもの</rt></ruby></span>
+
+<span style="border:2px solid #3f51b5;padding:1%;">Je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
+
+## All together
+
+<span style="border:2px solid #3f51b5;padding:1%;">Je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">.</span>
+
+<span style="border:2px solid #f44336;padding:1%;">Bois</span> <span style="border:2px solid #ffc107;padding:1%;">-</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
+
+<span style="border:2px solid #ffc107;padding:1%;">Est-ce que</span> <span style="border:2px solid #3f51b5;padding:1%;">je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
+
+<span style="border:2px solid #3f51b5;padding:1%;">Je</span> <span style="border:2px solid #f44336;padding:1%;">bois</span> <span style="border:2px solid #4caf50;padding:1%;">de l'eau</span> <span style="border:2px solid #9c27b0;padding:1%;">?</span>
 
 # Exercices <ruby>問題<rt>もんだい</rt></ruby>
 
@@ -62,7 +101,27 @@ Nationalité : Français
 
 > - 1-b, 2-a, 3-e, 4-c, 5-d, 6-h, 7-f, 8-j, 9-g, 10-i
 
+## Les mois de l'année
+
+一月、二月、三月、四月、五月、六月
+
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+
 ----
+
+七月、八月、九月、十月、十一月、十二月
+
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
 
 ## Remplir un formulaire <ruby>欄を書き込む<rt>らんをかきこむ</rt></ruby>
 
@@ -111,7 +170,7 @@ Fait le* :　＿＿/＿＿/＿＿   A : ＿＿＿＿＿</br>
 
 Please fill in the following registration form : 
 
-[Formulaire](https://cours-de-francais-ll-2019.github.io/exercices/fiche_inscription.md)
+[Formulaire](https://cours-de-francais-ll-2019.github.io/exercices/fiche_inscription.pdf)
 
 # 来てくれてありがとう
 
