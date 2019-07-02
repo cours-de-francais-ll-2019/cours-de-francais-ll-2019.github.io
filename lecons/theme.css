@@ -103,7 +103,9 @@
   body {
     background: white url(./background.svg);
     background-color: whitesmoke;
-    background-image: url(./background.svg); }
+    background-image: url(./background.svg);
+    background-size: cover;
+   }
   
   .slides {
     background: #fff;
