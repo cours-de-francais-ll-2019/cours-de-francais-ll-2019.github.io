@@ -76,7 +76,7 @@ marp: true
 | 100      | cent                   | 1 000 000     | **un** million   |
 | 1 000    | mille / **un** millier | 1 000 000 000 | **un** milliard  |
 
-999 999 999 : 
+999 999 999 :
 
 >- neuf cent quatre-vingt-dix-neuf millions neuf cent quatre-vingt-dix-neuf mille neuf cent quatre-vingt-dix-neuf
 
@@ -101,7 +101,7 @@ La lumière : <ruby>電気<rt>でんき</rt></ruby>
 - Le présent <ruby>現在<rt>げんざい</rt></ruby>
 - Le futur <ruby>未来<rt>みらい</rt></ruby>
 
-**La concordance des temps**
+**La concordance des temps** est importante !
 
 ## Les modes
 
@@ -120,12 +120,12 @@ Je souhaite qu'il lise un livre : 彼が本を読んでほしいのですが。
 
 |   Avoir   | Indicatif présent |
 |:---------:|:-----------------:|
-|        J' | ai                |
-|        Tu | as                |
-|   Il/Elle | a                 |
-|      Nous | avons             |
-|      Vous | avez              |
-| Ils/Elles | ont               |
+|     J'    |         ai        |
+|     Tu    |         as        |
+|  Il/Elle  |         a         |
+|    Nous   |       avons       |
+|    Vous   |        avez       |
+| Ils/Elles |        ont        |
 
 ## Le verbe être
 
@@ -136,6 +136,17 @@ Je souhaite qu'il lise un livre : 彼が本を読んでほしいのですが。
 |  Il/Elle  |        est        |
 |    Nous   |       sommes      |
 |    Vous   |        êtes       |
+| Ils/Elles |        sont       |
+
+## Le verbe aller
+
+|   Aller   | Indicatif présent |
+|:---------:|:-----------------:|
+|     Je    |        vais       |
+|     Tu    |        vas        |
+|  Il/Elle  |         va        |
+|    Nous   |       allons      |
+|    Vous   |       allez       |
 | Ils/Elles |        sont       |
 
 ## Règles - 1er groupe
@@ -224,6 +235,4 @@ Carte abonnement annuel : 15 €
 
 ----
 
-Merci d'être venu aujourd'hui !
-
-![](../assets/chien.jpg)
+![Merci d'être venu aujourd'hui !](../assets/chien.jpg)
