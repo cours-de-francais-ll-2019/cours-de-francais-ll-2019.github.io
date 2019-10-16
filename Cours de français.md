@@ -57,43 +57,6 @@
 |              &#8205;                |                                  |
 |              &#8205;                |                                  |
 
-## Cours n°1  : Apprendre à lire avec l’alphabet
-
-Date : 07 mai 2019
-
-Idée pour les nouveaux venus, leur faire écouter 3 chansons en français, allemand et italien et tenter de voir s’ils devinent la langue source :
-
-- Français : https://www.youtube.com/watch?v=85m-Qgo9_nE Clara Luciani - La grenade
-- Allemand : https://www.youtube.com/watch?v=k9EYjn5f_nE Andreas Bourani - Auf uns
-- Italien : https://youtu.be/ymLMMiuTeu0?t=131 Indochine - Gloria
-
-Apprendre l’alphabet. En premier, voir toutes les lettres une par une et ensuite apprendre à lire.
-
-Site intéressant avec les combinaisons de lettres, les scripts et les mots exemple : <https://apprendrealire.net/>
-
-![Apprendre Ã  lire, le son g, gu](https://apprendrealire.net/images/lecture/son-g.png)
-
-Peut-être tenter une petite dictée avec les anciens qui écrivent au tableau et les nouveaux qui essaient de lire les mots comme : Jeudi, arbre, pomme, miel, pelle, Loïc, université, livre, libre, désert, dessert, poison, poisson, poissons, peinture
-
-Liste en Jap : もくようび、き、りんご、はちみつ、シャベル、ロイク、だいがく、ほん、じゆうきまま（自由気儘）、さばく、デザート、どく、さかな、さかな、かいが　/　え
-
-
-
-Éventuellement parler des consonnes (しいん) et des voyelles (ぼいん)
-
-## Cours n°2 : Les mots et leurs origines
-
-Apprendre les classes de mots comme : 
-
-sujet, verbe, complément
-
-Apprendre comment faire une phrase en partant de l’exemple
-
-Mon nom est Alexandre. 
-
-J’ai 22 ans.
-
-Parler des différents types de verbes : verbes d’action et verbes d’état
 
 ## Idées d'activités
 
@@ -104,8 +67,6 @@ Trouver Les visages français
 Leur demander de chercher 3 mots entre chaque cours et mettre en commun
 
 Rapporter les euros
-
-Montrer le permis de conduire
 
 Apporter le passeport et le permis de conduire
 

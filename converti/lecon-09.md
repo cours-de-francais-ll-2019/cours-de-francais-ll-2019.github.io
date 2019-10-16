@@ -208,15 +208,24 @@ Be careful when you're telling the time using a digital clock though! In French 
 To say at … o'clock you say à … heures.
 
 J'ai un rendez-vous à onze heures - 私は十一時に予定があります。[わたしはじゅういちじによていがあります]
+
 À neuf heures, j'ai anglais - At nine o'clock, I have English
+
 Le lundi, j'ai maths à une heure - On Monday, I have Maths at one o'clock
-Here are more examples of expressing times.
+
+----
 
 Il est onze heures moins cinq du matin – It’s 10.55am
+
 Il est neuf heures du matin – It’s 9.00am
+
 À huit heures vingt-cinq du matin, j’arrive au collège – I arrive at school for 8.25am
+
 Mes cours finissent à trois heures trente de l’après-midi – My classes finish at 3.30pm
-It’s more common to use the 24-hour clock in French than it is in English. So after midday, it’s more common to use 13.00 instead of 1.00pm.
+
+----
+
+It’s more common to use the 24-hour clock in French than it is in English. So after midday, it’s more common to use 13.00 instead of 1.00 p.m..
 
 # 来てくれてありがとう
 

@@ -1,5 +1,5 @@
 ---
-title: Leçon 
+title: Leçon 8
 subtitle: Les nombres et le présent
 lang: fr-FR
 slideNumber: true
