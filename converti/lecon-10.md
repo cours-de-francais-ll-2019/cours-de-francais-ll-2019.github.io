@@ -12,12 +12,12 @@ marp: true
 
 ## Correction
 
-- Je suis japonais.
+- Je suis Japonais.
 - Tu marches vite.
 - Il ne parle pas chinois.
-- Nous avons deux chiens
-- Aimez-vous les pommes
-- Elles se lèvent tous les matins à 08h
+- Nous avons deux chiens.
+- Aimez-vous les pommes ?
+- Elles se lèvent tous les matins à huit heures quarante-sept.
 
 # Proverbe
 
