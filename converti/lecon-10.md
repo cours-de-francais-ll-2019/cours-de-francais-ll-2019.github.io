@@ -245,7 +245,47 @@ ici / là, ceci / celà, ce jour-ci / ce jour-là, voici / voilà, par ici / par
 
 # Culture
 
-## Un journal français
+## Le château d'If
+
+![Le château d'If](https://lh3.googleusercontent.com/proxy/uEeFJyl0wyD-Nc5iKd7Q8X8hITaTtIxRZDMYiFpqhEhBfVCQYIaGl_rHg7oynxBnC6aLUk_Xvz1mUMhfVGbcCYLI4zgzNZkAWzvFeuI3N5McXOr5UTB6WvFYvs8hxD93kiC-42g2umALnxF0=s1536-k-no)
+
+----
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5679027.260899214!2d0.2184837296617652!3d46.200070180712245!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10dd415b34f5bd7e!2z44K344Oj44OI44O844O744OH44Kj44OV!5e0!3m2!1sja!2sjp!4v1573024162833!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+https://www.google.com/maps/place/%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%83%95/@46.2000702,0.2184837,5.99z/data=!4m5!3m4!1s0x0:0x10dd415b34f5bd7e!8m2!3d43.279781!4d5.325086
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gqhFszjSQ3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yon5CVfi_kE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+### Vocabulaire
+
+
+- un château, <ruby>城<rt>しろ</rt></ruby>
+- une prison, <ruby>刑務所<rt>けいむしょ</rt></ruby>
+- un auteur, <ruby>作家<rt>さっか</rt></ruby>
+- une évasion <ruby>逃避<rt>とうひ</rt></ruby>
+- un siècle <ruby>世紀<rt>せいき</rt></ruby>
+- une tour <ruby>塔<rt>とう</rt></ruby>
+
+----
+
+- Un personnage imaginaire <ruby>虚構人格<rt>きょこうじんかく</rt></ruby>
+- nager <ruby>泳ぐ<rt>およぐ</rt></ruby>
+- Le comte de Monté-Cristo, <ruby>モンテ・クリストはく</ruby>
+- Alexandre Dumas, <ruby>アレクサンドル・デュマ</ruby>
+- un roi <ruby>王様<rt>おうさま</rt></ruby>
+- un empereur <ruby>皇帝<rt>こうてい</rt></ruby>
+- une monarchie <ruby>君主制<rt>くんしゅせい</rt></ruby>
+- une république <ruby>共和制<rt>きょうわせい</rt></ruby>
+
 
 # 来てくれてありがとう
 
