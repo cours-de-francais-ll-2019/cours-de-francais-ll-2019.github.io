@@ -1,6 +1,6 @@
 ---
 title: Leçon 11
-subtitle: Présent de l'indicatif, COD, COI
+subtitle: Présent de l'indicatif, comparatif et superlatif
 lang: fr-FR
 slideNumber: true
 marp: true
@@ -30,6 +30,35 @@ Un grain de sable dans un désert <ruby>砂漠の砂粒<rt>さばくのさりゅ
 ## Exercices de conjugaison
 
 A l'aide de la feuille, veuillez conjuger les verbes suivants :
+
+## Premier groupe
+
+| Pronom     | Verbe         |
+|------------|---------------|
+| Je         | Radical + e   |
+| Tu         | Radical + es  |
+| Il/Elle/On | Radical + e   |
+| Nous       | Radical + ons |
+| Vous       | Radical + ez  |
+| Ils/Elles  | Radical + ent |
+
+## Cas particulier
+
+| Modèle de verbes    | Modification                                                                                            | Exemple                         |
+|---------------------|---------------------------------------------------------------------------------------------------------|---------------------------------|
+| Les verbes en -guer | Les verbes en -guer gardent le u partout même avec nous alors qu'il n'en a pas besoin pour la sonorité. | verbe fatiguer : nous fatiguons |
+
+----
+
+| Modèle de verbes    | Modification                                                                                            | Exemple                         |
+|---------------------|---------------------------------------------------------------------------------------------------------|---------------------------------|
+| Les verbes en -ger  | Pour garder le son [j], un e apparaît avec nous.                                                        | verbe manger : nous mangeons    |
+
+----
+
+| Modèle de verbes    | Modification                                                                                            | Exemple                         |
+|---------------------|---------------------------------------------------------------------------------------------------------|---------------------------------|
+| Les verbes en -cer  | Pour garder le son [s], une cédille apparaît avec nous.                                                 | verbe placer : nous plaçons     |
 
 ## Aller
 
@@ -119,11 +148,211 @@ A l'aide de la feuille, veuillez conjuger les verbes suivants :
 | vous        | courez  |
 | ils/elles   | courent |
 
-## COD et COI
+## Comparatif et superlatif
 
-# Vocabulaire
+### Le comparatif
 
-Les couleurs
+Trois niveaux différents : 
+- la supériorité
+- l’infériorité
+- l’égalité
+
+La comparaison peut se faire avec un **adjectif**, un **adverbe** (副詞[ふくし]), un **nom** ou un **verbe**.
+
+----
+
+### Rules
+
+|          | +                  | -                   | =                   |
+|----------|--------------------|---------------------|---------------------|
+| Adjectif | plus + adj (+ que) | moins + adj (+ que) | aussi + adj (+ que) |
+|          | plus beau          | moins gros          | aussi grande        |
+| Adverbe  | plus + adv (+ que) | moins + adv (+ que) | aussi + adv (+ que) |
+|          | plus lentement     | moins loin          | aussi vite          |
+
+----
+
+|       | +                          | -                           | =                            |
+|-------|----------------------------|-----------------------------|------------------------------|
+| Nom   | plus + de + nom (+ que de) | moins + de + nom (+ que de) | autant + de + nom (+ que de) |
+|       | plus de personnes          | moins de gens               | autant de livres             |
+| Verbe | verbe + plus (+ que)       | verbe + moins (+ que)       | verbe + autant (+ que)       |
+|       | rire plus                  | crier moins                 | chanter autant               |
+
+----
+
+### Irregularities - « bon » et « bien »
+
+#### Bon
+
+- bon --> meilleur
+- bonne --> meilleure
+- bons --> meilleurs
+- bonnes --> meilleures
+
+> Ce gâteau est bon mais cette tarte est meilleure.
+
+----
+
+#### Bien
+
+- bien --> mieux
+
+> Ma femme chante mieux que moi.
+
+----
+
+#### Difference
+
+*Bon* is usually an **adjective**. It modifies a noun and means good, suitable, efficient, correct, useful, etc.
+
+*Bien* means good, moral, right, healthy, etc., and can only be used as an adjective with copular (state-of-being) verbs such as être.
+
+----
+
+*Bien* is usually an **adverb**. It means well or can be used to stress something.
+
+*Bon*, in the rare instances where it is used as an adverb, means good or pleasant.
+
+----
+
+*Bon* can be a **noun** that refers to any sort of important or official piece of paper: form, bond, coupon, voucher, etc.
+
+*Bien* means good in the general sense, and biens means goods (as opposed to services).
+
+----
+
+#### Mauvais
+
+- mauvais --> pire
+- mauvaise --> pire
+- mauvais --> pires
+- mauvaises --> pires
+
+> Ce travail que tu as fait est pire que celui de Paul.  
+> Les qualifications que tu as obtenues ce trimestre sont pires
+
+----
+
+#### Petit
+
+- petit --> plus petit
+- petit --> moindre
+
+> Mon sandwich est plus petit que le tien.  
+> Ce film a eu un succès moindre que prévu.
+
+----
+
+### Le superlatif
+
+|          | +                  | -                   |
+|----------|--------------------|---------------------|
+| Adjectif | le, la, les plus + adj | le, la, les moins + adj |
+|          | le plus petit, la plus grande les plus riches, les plus chères          | le moins petit, la moins grande les moins riches, les moins chères          |
+| Adverbe  | le plus + adv | le moins + adv |
+|          | le plus vite     | le moins vite          |
+
+----
+
+|       | +                    | -                     |
+|-------|----------------------|-----------------------|
+| Nom   | le plus de + nom     | le moins de + nom     |
+|       | le plus de gens      | le moins de gens      |
+| Verbe | verbe + le plus      | verbe + le moins      |
+|       | il travaille le plus | il travaille le moins |
+
+----
+
+### Irregularities - « bon » et « bien »
+
+#### Bon
+
+- bon --> le meilleur
+- bonne --> la meilleure
+- bons --> les meilleurs
+- bonnes --> les meilleures
+
+> Voici le meilleur restaurant du monde !  
+> C’est la meilleure journée que je n’ai jamais passée. 
+
+----
+
+#### Bien
+
+- bien --> le mieux
+
+> Le mieux, c’est de partir tôt.
+
+----
+
+#### Mauvais
+
+- mauvais --> le pire
+- mauvaise --> la pire
+- mauvais --> les pires
+- mauvaises --> les pires
+
+> C’est le pire livre que je n’ai jamais lu !  
+> C’est le plus mauvais restaurant de la ville !
+
+----
+
+#### Petit
+
+- petit --> le plus petit
+- petit --> le moindre
+
+> Voici la maison la plus petite du monde !  
+> C’est la moindre chose que je puisse faire pour toi.
+
+# Vocabulaire - Les couleurs
+
+----
+
+| Français          | Japanese                 |
+|-------------------|--------------------------|
+| argent            | <ruby>銀色<rt>ぎんいろ</rt></ruby>           |
+| azur              | <ruby>瑠璃色<rt>るりいろ</rt></ruby>         |
+| beige             | <ruby>ベージュ色<rt>ベージュいろ</rt></ruby> |
+| blanc (blanche)   | <ruby>白色<rt>はくしょく</rt></ruby>         |
+| bleu (bleue)      | <ruby>青色<rt>あおいろ</rt></ruby>           |
+| bleu ciel         | <ruby>空色<rt>そらいろ</rt></ruby>           |
+| bleu marine       | <ruby>紺色<rt>こんいろ</rt></ruby>           |
+
+----
+
+| Français          | Japanese                 |
+|-------------------|--------------------------|
+| bleu turquoise    | <ruby>青緑色<rt>せいりょくしょく</rt></ruby> |
+| blond (blonde)    | <ruby>金髪<rt>きんぱつ</rt></ruby>           |
+| bordeaux          | <ruby>ワイン色<rt>ワインいろ</rt></ruby>     |
+| brun (brune)      | <ruby>茶色<rt>ちゃいろ</rt></ruby>           |
+| châtain           | <ruby>栃の実色<rt>とちのみいろ</rt></ruby>   |
+| gris (grise)      | <ruby>灰色<rt>はいいろ</rt></ruby>           |
+| indigo            | <ruby>インド藍<rt>インドあい</rt></ruby>     |
+
+----
+
+| Français          | Japanese                 |
+|-------------------|--------------------------|
+| jaune             | <ruby>黄色<rt>きいろ</rt></ruby>             |
+| kaki              | <ruby>国防色<rt>こくぼうしょく</rt></ruby>   |
+| marron            | <ruby>茶色<rt>ちゃいろ</rt></ruby>           |
+| mauve             | <ruby>淡紫色<rt>たんししょく</rt></ruby>     |
+| or                | <ruby>金色<rt>きんいろ</rt></ruby>           |
+| orange            | <ruby>橙色<rt>だいだいいろ</rt></ruby>       |
+
+----
+
+| Français          | Japanese                 |
+|-------------------|--------------------------|
+| rose              | <ruby>桃色<rt>ももいろ</rt></ruby>           |
+| rouge             | <ruby>赤色<rt>あかいろ</rt></ruby>           |
+| saumon            | <ruby>曙色<rt>あけぼのいろ</rt></ruby>       |
+| vert (verte)      | <ruby>緑色<rt>みどりいろ</rt></ruby>         |
+| violet (violette) | <ruby>紫色<rt>むらさきいろ</rt></ruby>       |
+
 
 # Culture
 
@@ -136,220 +365,3 @@ Les couleurs
 ---
 
 ![Merci d'être venu aujourd'hui !](../assets/chien.jpg)
-
-
-
-
-
-## Devoir
-
-|Pronom|Verbe|
-|---|---|
-|je|dois|
-|tu|dois|
-|il/elle/on|doit|
-|nous|devons|
-|vous|devez|
-|ils/elles|doivent|
-
-## Dire
-
-|Pronom|Verbe|
-|---|---|
-|je|dis|
-|tu|dis|
-|il/elle/on|dit|
-|nous|disons|
-|vous|dites|
-|ils/elles|disent|
-
-## Écrire
-
-|Pronom|Verbe|
-|---|---|
-|j’|écris|
-|tu|écris|
-|il/elle/on|écrit|
-|nous|écrivons|
-|vous|écrivez|
-|ils/elles|écrivent|
-
-## Être
-
-|Pronom|Verbe|
-|---|---|
-|je|suis|
-|tu|es|
-|il/elle/on|est|
-|nous|sommes|
-|vous|êtes|
-|ils/elles|sont|
-
-## Faire
-
-|Pronom|Verbe|
-|---|---|
-|je|fais|
-|tu|fais|
-|il/elle/on|fait|
-|nous|faisons|
-|vous|faites|
-|ils/elles|font|
-
-## Finir
-
-|Pronom|Verbe|
-|---|---|
-|je|finis|
-|tu|finis|
-|il/elle/on|finit|
-|nous|finissons|
-|vous|finissez|
-|ils/elles|finissent|
-
-## Lire
-
-|Pronom|Verbe|
-|---|---|
-|je|lis|
-|tu|lis|
-|il/elle/on|lit|
-|nous|lisons|
-|vous|lisez|
-|ils/elles|lisent|
-
-## Manger
-
-|Pronom|Verbe|
-|---|---|
-|je|mange|
-|tu|manges|
-|il/elle/on|mange|
-|nous|mangeons|
-|vous|mangez|
-|ils/elles|mangent|
-
-
-
-
-
-## Mettre
-
-|Pronom|Verbe|
-|---|---|
-|je|mets|
-|tu|mets|
-|il/elle/on|met|
-|nous|mettons|
-|vous|mettez|
-|ils/elles|mettent|
-
-## Offrir
-
-|Pronom|Verbe|
-|---|---|
-|j’|offre|
-|tu|offres|
-|il/elle/on|offre|
-|nous|offrons|
-|vous|offrez|
-|ils/elles|offrent|
-
-## Parler
-
-|Pronom|Verbe|
-|---|---|
-|je|parle|
-|tu|parles|
-|il/elle/on|parle|
-|nous|parlons|
-|vous|parlez|
-|ils/elles|parlent|
-
-## Pouvoir
-
-|Pronom|Verbe|
-|---|---|
-|je|peux|
-|tu|peux|
-|il/elle/on|peut|
-|nous|pouvons|
-|vous|pouvez|
-|ils/elles|peuvent|
-
-## Prendre
-
-|Pronom|Verbe|
-|---|---|
-|je|prends|
-|tu|prends|
-|il/elle/on|prend|
-|nous|prenons|
-|vous|prenez|
-|ils/elles|prennent|
-
-## Recevoir
-
-|Pronom|Verbe|
-|---|---|
-|je|reçois|
-|tu|reçois|
-|il/elle/on|reçoit|
-|nous|recevons|
-|vous|recevez|
-|ils/elles|reçoivent|
-
-## Savoir
-
-|Pronom|Verbe|
-|---|---|
-|je|sais|
-|tu|sais|
-|il/elle/on|sait|
-|nous|savons|
-|vous|savez|
-|ils/elles|savent|
-
-## Suivre
-
-|Pronom|Verbe|
-|---|---|
-|je|suis|
-|tu|suis|
-|il/elle/on|suit|
-|nous|suivons|
-|vous|suivez|
-|ils/elles|suivent|
-
-## Venir
-
-|Pronom|Verbe|
-|---|---|
-|je|viens|
-|tu|viens|
-|il/elle/on|vient|
-|nous|venons|
-|vous|venez|
-|ils/elles|viennent|
-
-## Voir
-
-|Pronom|Verbe|
-|---|---|
-|je|vois|
-|tu|vois|
-|il/elle/on|voit|
-|nous|voyons|
-|vous|voyez|
-|ils/elles|voient|
-
-## Vouloir
-
-|Pronom|Verbe|
-|---|---|
-|je|veux|
-|tu|veux|
-|il/elle/on|veut|
-|nous|voulons|
-|vous|voulez|
-|ils/elles|veulent
