@@ -25,11 +25,11 @@ marp: true
 
 Un grain de sable dans un désert <ruby>砂漠の砂粒<rt>さばくのさりゅう</rt></ruby>
 
-# Grammaire
+# Conjugaison
 
 ## Exercices de conjugaison
 
-A l'aide de la feuille, veuillez conjuger les verbes suivants :
+A l'aide de la feuille, veuillez conjuguer les verbes suivants :
 
 ## Premier groupe
 
@@ -148,11 +148,69 @@ A l'aide de la feuille, veuillez conjuger les verbes suivants :
 | vous        | courez  |
 | ils/elles   | courent |
 
+# Conversation
+
+## Faire les courses
+
+----
+
+- Où allez-vous ?
+- Je vais au grand magasin.
+- J'y vais avec vous.
+- Qu'est ce que vous achetez ?
+- J'achète des chaussettes.
+
+----
+
+- Nous y sommes.
+- Entrons !
+- Il y a des chaussettes ici !
+- Mais c'est cher...
+- Effectivement...
+- Bon, j'abandonne.
+
+----
+
+- Où allez-vous ?
+- Je vais au grand magasin.
+- J'y vais avec vous.
+- Qu'est ce que vous achetez ?
+
+- どこへ行きますか。
+- デパートへ行きます。
+- 一緒に行きます。
+- 何を買いますか。
+
+----
+
+- J'achète des chaussettes.
+- Nous y sommes.
+- Entrons !
+- Il y a des chaussettes ici !
+
+- 靴下を買います。
+- 着きました。
+- 入りましょう。
+- ここに靴下があります。
+
+----
+
+- Mais c'est cher...
+- Effectivement...
+- Bon, j'abandonne.
+
+- でも高いですね。
+- そうですね。
+- やめます。
+
+# Grammaire
+
 ## Comparatif et superlatif
 
 ### Le comparatif
 
-Trois niveaux différents : 
+Trois niveaux différents :
+
 - la supériorité
 - l’infériorité
 - l’égalité
@@ -206,7 +264,7 @@ La comparaison peut se faire avec un **adjectif**, un **adverbe** (副詞[ふく
 
 *Bon* is usually an **adjective**. It modifies a noun and means good, suitable, efficient, correct, useful, etc.
 
-*Bien* means good, moral, right, healthy, etc., and can only be used as an adjective with copular (state-of-being) verbs such as être.
+*Bien* means good, moral, right, healthy, etc., and can only be used as an adjective with copulas (state-of-being) verbs such as être.
 
 ----
 
@@ -353,7 +411,6 @@ La comparaison peut se faire avec un **adjectif**, un **adverbe** (副詞[ふく
 | vert (verte)      | <ruby>緑色<rt>みどりいろ</rt></ruby>         |
 | violet (violette) | <ruby>紫色<rt>むらさきいろ</rt></ruby>       |
 
-
 # Culture
 
 ## L'humour français
@@ -362,6 +419,6 @@ La comparaison peut se faire avec un **adjectif**, un **adverbe** (副詞[ふく
 
 # 来てくれてありがとう
 
----
+----
 
 ![Merci d'être venu aujourd'hui !](../assets/chien.jpg)
