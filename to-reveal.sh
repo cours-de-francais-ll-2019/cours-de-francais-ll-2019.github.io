@@ -1,5 +1,6 @@
 #!/bin/bash
 
+clear
 echo
 echo "  _                    _           ___  ___   _    "
 echo " |_) ._ _  o  _ _|_   |_)    /\     |    |   / \   "
@@ -12,7 +13,7 @@ read -p "Numéro de leçon à convertir : " id
 
 while true
 do
-    pandoc -t revealjs -s --css="theme.css" -o lecons/lecon-$id.html lecon-$id.md --slide-level=2 -V revealjs-url=https://revealjs.com
+	pandoc -t revealjs -s --css="theme.css" -o lecons/lecon-$id.html lecon-$id.md --slide-level=2 -V revealjs-url=https://revealjs.com
 	echo La conversion de la leçon $id terminée.
 	echo
 
